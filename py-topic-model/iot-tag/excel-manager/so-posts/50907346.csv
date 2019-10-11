@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+50907346,50907346,null,1,1,Mon Jun 18 10:23:00 EDT 2018,9955800,"<p>The question is about zigbee network; does the nodes (routers, end devices) send some keep alive messages or Heart beat to prevent time out? Or can't a node ping out?</p>		<p>Just a pointee to the correct parameters or what we call that attribute in zigbee call flow? that would be great help. I know that you can set the POLL_RATE for data request, to get queued messages.</p>	"

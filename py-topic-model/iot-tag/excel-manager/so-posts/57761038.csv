@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57761038,57761038,null,1,0,Mon Sep 02 17:52:00 EDT 2019,12011091,"<p>I am trying to extract the sequence number for each packet of all the Z1 motes in my simulation. The problem is that, the function (tcpiphaandler in udp-sink.c) does not get called but the nodes are sending packets to each other in the simulation.</p>		<p>I have tried to print my name (using printf command) under the "tcpiphandler" function to check if it works or not and unfortunately it does nothing.</p>	"
+57761038,101958175,57761038,3,1,Mon Sep 02 18:01:00 EDT 2019,7501158,"So what is your question sir ?"
+57761038,102008929,57761038,3,0,Wed Sep 04 11:53:00 EDT 2019,2435820,"Hi, if you want help with your code, please provide a [mcve]."

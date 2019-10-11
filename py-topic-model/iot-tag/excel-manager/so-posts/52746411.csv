@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+52746411,52746411,null,1,0,Wed Oct 10 18:12:00 EDT 2018,10485767,"<p>I have some issues with the Iot quickstart in watson platform. There are no runtime in my compilation package. I created my cloud foundry app from here <a href="https://console.bluemix.net/catalog/starters/internet-of-things-platform-starter" rel="nofollow noreferrer">https://console.bluemix.net/catalog/starters/internet-of-things-platform-starter</a>	<a href="https://i.stack.imgur.com/WGFrE.png" rel="nofollow noreferrer">Image</a></p>	"
+52746411,92417686,52746411,3,0,Wed Oct 10 18:23:00 EDT 2018,10485767,"I didnt do anything but its fixed."

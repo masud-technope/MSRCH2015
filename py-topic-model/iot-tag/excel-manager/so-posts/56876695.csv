@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+56876695,56876695,null,1,0,Wed Jul 03 19:17:00 EDT 2019,9592672,"<p>I wonder how can I use Raspberry Pi to stimulate IoT devices traffics. 	There isn't a lot of resources on google so I'd post my question here. </p>		<p>What tools could I use? </p>		<p>Thanks ahead</p>	"
+56876695,100302035,56876695,3,3,Wed Jul 03 19:22:00 EDT 2019,1227152,"You probably use it like any other computing device, once you define what your "IoT devices traffic" looks like and what protocol(s) it uses."
+56876695,100307662,56876695,3,0,Thu Jul 04 01:28:00 EDT 2019,6601582,"Do you use [Windows 10 IoT Core](https://docs.microsoft.com/en-us/windows/iot-core/windows-iot-core)? More detailed information about "stimulate IoT devices traffics" is helpful."

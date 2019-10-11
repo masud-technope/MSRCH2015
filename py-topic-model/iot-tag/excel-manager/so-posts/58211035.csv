@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+58211035,58211035,null,1,0,Thu Oct 03 00:49:00 EDT 2019,1620206,"<p>I have 2 IoT devices, I can write C program to run on both devices to implement BlockChain.</p>		<p>The idea is to secure the IoT device records in a BlockChain.</p>		<p>Can I develop my own BlockChain for this project?</p>		<p>Since the database shouldn't be centralized, where should the records blocks be stored?</p>		<p>Can I use C to implement the BlockChain?</p>		<p>Do I have to write Javascript code and interact with some API?</p>	"

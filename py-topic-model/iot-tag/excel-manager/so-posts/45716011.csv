@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+45716011,45716011,null,1,0,Wed Aug 16 14:15:00 EDT 2017,8170797,"<p>I want to extract Data from my database Cassandra, and do some transformations.</p>	"
+45716011,45722700,45716011,2,2,Wed Aug 16 20:44:00 EDT 2017,266337,"<p>I would recommend the spark connector</p>		<p><a href="https://github.com/datastax/spark-cassandra-connector" rel="nofollow noreferrer">https://github.com/datastax/spark-cassandra-connector</a></p>	"
+45716011,45754400,45716011,2,0,Fri Aug 18 10:26:00 EDT 2017,1938185,"<p>In my opinion, one of the best ETL is Pentaho Data Integrator.</p>		<p>It is free, easy to learn, robust to use. It has a Cassandra connector since 2012, tested and well documented with <a href="http://wiki.pentaho.com/display/BAD/Cassandra" rel="nofollow noreferrer">tutorials</a> and stackover flow tags.</p>	"
+45716011,78592586,45754400,3,0,Tue Aug 22 12:28:00 EDT 2017,8170797,"Pentaho Data Intagration is not compatible with Cassandra vesion 3.10"
+45716011,80272438,45754400,3,0,Tue Oct 10 08:29:00 EDT 2017,6558621,"@Kikou Hi and new tool found that supports Cassandra version 3.10? I want to extract data form Cassandra and transform by adding columns and send it to other db"

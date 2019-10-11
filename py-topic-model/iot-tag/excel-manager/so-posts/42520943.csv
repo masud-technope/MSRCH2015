@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+42520943,42520943,null,1,1,Wed Mar 01 00:01:00 EST 2017,610217,"<p>I just bought a Raspberry Pi, installing Windows 10 IoT on it, and I want to start playing with some GPIO stuff, but I'd like to write some clean code; for me, that means coding to interfaces and injecting dependencies... but that does not seem possible.</p>		<p>I tried <code>UnityContainer</code> and the <code>IServiceCollection</code>, but VS complains that neither are "valid WinRT types"... so... what is, and how to do this?</p>	"

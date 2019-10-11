@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+51929283,51929283,null,1,0,Mon Aug 20 10:59:00 EDT 2018,10249488,"<p>I am trying to send the data I receive to my computer into AWS; I use a socket to test for communication. How can I configure the EC2 and make the data received in AWS?</p>	"
+51929283,91168592,51929283,3,0,Fri Aug 31 05:32:00 EDT 2018,10249488,"I have set the inbound rule with the port which is configured in the server and it starts working"
+51929283,52144373,51929283,2,0,Mon Sep 03 06:41:00 EDT 2018,10249488,"<p>I have set the inbound rule with the port which is configured in the server and it starts working </p>	"

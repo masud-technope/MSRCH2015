@@ -1,0 +1,9 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+43221432,43221432,null,1,1,Wed Apr 05 03:44:00 EDT 2017,2930627,"<p>I have installed windows IoT 10 on raspberry pi 3 device. I connect the device to WiFi and have installed application and set it as default application. The problem is after some time application stops running (I have some GPIO pin connected to external sensors). If i connect the pi to ethernet without restarting the pi  can see the device in dashboard and can restart the application.</p>		<p>Not sure how to deal with this issue. </p>	"
+43221432,73529059,43221432,3,0,Wed Apr 05 11:18:00 EDT 2017,2930627,"Dint get your point, headed or headless?. Stops in 10 minutes aprrox (not consitant). . . Yup disconnection happenes when application stop"
+43221432,73529075,43221432,3,0,Wed Apr 05 11:18:00 EDT 2017,2930627,"Using pin 18 and 26. And gnd"
+43221432,73563349,43221432,3,0,Thu Apr 06 06:08:00 EDT 2017,2930627,"It is headed. But i dont have any specific need for it. Will try running it in background."
+43221432,73558539,43221432,3,0,Thu Apr 06 01:42:00 EDT 2017,6601582,"Headed application has UI and headless has not UI. Headless app is a background app. More information about application types supported on windows iot core you can reference [here](https://developer.microsoft.com/en-us/windows/iot/docs/buildingappsforiotcore)."
+43221432,73558556,43221432,3,0,Thu Apr 06 01:43:00 EDT 2017,6601582,"Do you mind showing your code?"
+43221432,73674389,43221432,3,0,Sun Apr 09 08:32:00 EDT 2017,2930627,"Got the answer. The problem got solved once i changed os to insider version"
+43221432,73524232,43221432,3,0,Wed Apr 05 09:30:00 EDT 2017,6601582,"What's kind of the application, headed or headless? How long the application runs before it stops? How do you find the raspberry pi disconnect from wifi? Disconnection happens when the application stops?"

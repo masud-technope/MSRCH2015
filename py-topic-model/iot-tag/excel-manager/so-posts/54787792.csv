@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+54787792,54787792,null,1,0,Wed Feb 20 13:44:00 EST 2019,11090151,"<p>I'm connecting to a SSH enable IoT device using the parallel-ssh library. The devices changes its behavior if an environment variable is present or not.</p>		<p>This device has a very limited, proprietary shell. I cannot set the variable by sending an export PERSONA=BOB command to it. I can test it with Putty by setting the environment in the GUI:</p>		<p><a href="https://i.stack.imgur.com/yvbS5.png" rel="nofollow noreferrer">SEE IMAGE (MIGHT HELP)</a></p>		<p>How can I set an environment variable on my parallel-ssh connexion?</p>	"
+54787792,96431031,54787792,3,0,Fri Feb 22 13:29:00 EST 2019,220255,"So how does this mean you can’t send the command?"
+54787792,96420746,54787792,3,0,Fri Feb 22 08:33:00 EST 2019,11090151,"I cant, the device has a very rubbish shell"
+54787792,96356891,54787792,3,0,Wed Feb 20 15:01:00 EST 2019,220255,"what happens when you send the `export PERSONA=BOB` command?"
+54787792,96504335,54787792,3,0,Mon Feb 25 13:14:00 EST 2019,11090151,"Because it doesn't allow it"

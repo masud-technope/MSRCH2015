@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+58154801,58154801,null,1,0,Sun Sep 29 11:37:00 EDT 2019,7645770,"<p>I'm trying to send data from <code>AWS FreeRTOS</code> windows simulator to local <code>MQTT</code> broker. But every time I am getting this error:</p>		<blockquote>	  <p>"Exception thrown: read access violation. pNetworkInfo->pNetworkInterface was 0x1".</p>	</blockquote>		<p>Do you have any solution for this?</p>	"

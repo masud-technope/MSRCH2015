@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55535616,55535616,null,1,0,Fri Apr 05 12:39:00 EDT 2019,6299363,"<p>I need help to configure a static ip on my prototipe.	I use android IOT on Raspberry pi3.</p>		<p>Note:	The solution with a configuration on my DHCP server is non feasible.</p>	"

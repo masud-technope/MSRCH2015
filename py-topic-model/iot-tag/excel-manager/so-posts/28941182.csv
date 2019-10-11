@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+28941182,28941182,null,1,0,Mon Mar 09 11:43:00 EDT 2015,4111113,"<p>Is there any open protocol so the already existing applications like AutoCAD or illustrator could communicate with a custom made plotter?</p>	"
+28941182,46259842,28941182,3,0,Thu Mar 12 10:22:00 EDT 2015,4111113,"YES. that was exactly what i was looking for. Thank you"
+28941182,46136871,28941182,3,0,Mon Mar 09 11:45:00 EDT 2015,4111113,"i dont know if i set it right. I need to build a custom plotter but use the already existing applications like AutoCAD, Illustrator to print to my custom plotter device"
+28941182,46137683,28941182,3,0,Mon Mar 09 12:09:00 EDT 2015,253056,"Like [HPGL](https://en.wikipedia.org/wiki/HPGL) you mean ?"

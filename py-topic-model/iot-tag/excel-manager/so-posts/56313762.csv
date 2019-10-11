@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+56313762,56313762,null,1,0,Sun May 26 13:04:00 EDT 2019,7137904,"<p>Is there a way to make an app using MIT app inventor for receive push notification from firebase? 	For, Example when a specific value come a notification will be sent to the mobile...</p>	"

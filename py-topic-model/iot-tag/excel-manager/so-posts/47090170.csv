@@ -1,0 +1,10 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+47090170,47090170,null,1,-3,Fri Nov 03 07:01:00 EDT 2017,8878970,"<p>I am looking for a database for IOT device. It should have below features.	   1. Very low memory usage. (The device will have only 2-4 GB memory for the database).	   2. Data to be stored in the database is not very large.	   3. It should be very fast.	   4. It should support Python.	   5. It can be installed on Linux.	   6. It can be NoSQL or relational.</p>		<p>Could you please suggest some databases for this requirements?</p>	"
+47090170,81157048,47090170,3,0,Fri Nov 03 19:44:00 EDT 2017,1977847,"The question belongs here: https://softwarerecs.stackexchange.com"
+47090170,81129691,47090170,3,0,Fri Nov 03 07:11:00 EDT 2017,149341,"2 - 4 *GB* is "very low memory" these days? :)"
+47090170,81131505,47090170,3,0,Fri Nov 03 08:15:00 EDT 2017,8878970,"Yes. But the device is an old device."
+47090170,47090248,47090170,2,1,Fri Nov 03 07:07:00 EDT 2017,2293675,"<p>I've used SQLite (<a href="http://sqlite.org" rel="nofollow noreferrer">http://sqlite.org</a>) for projects like this in the past when I wanted a relational front end.</p>		<p>Back in the day I might use BerkeleyDB, or any of its close relatives which offer a simple key-value store, but it is likely no longer buzzword compliant anymore.</p>	"
+47090170,81156891,47090248,3,0,Fri Nov 03 19:38:00 EDT 2017,1977847,"sqlite is the standard choice for embedded devices, smartphones etc. https://www.sqlite.org/mostdeployed.html"
+47090170,81131514,47090248,3,0,Fri Nov 03 08:15:00 EDT 2017,8878970,"Thanks G.K. McIntire."
+47090170,47190578,47090170,2,0,Wed Nov 08 22:11:00 EST 2017,8909888,"<p>Use Firebase as it is real-time light weight, NoSQL database and there are various Api's easily available on internet to connect arduino or raspberry pi to the firebase database .</p>	"
+47090170,81807396,47190578,3,0,Wed Nov 22 03:25:00 EST 2017,4029284,"This should be a comment"

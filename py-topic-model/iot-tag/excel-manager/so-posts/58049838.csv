@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+58049838,58049838,null,1,-1,Sun Sep 22 13:50:00 EDT 2019,12101238,"<p>I'm setting client using esp32 and I want to request last message to server before esp32 unplug from power supply. What should I do, do I need more hardware?</p>	"

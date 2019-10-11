@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55737263,55737263,null,1,0,Wed Apr 17 23:25:00 EDT 2019,10563486,"<p>A group and I are using the TI CC2650 Sensortag to develop a little "smart helmet" project that detects impacts using the sensors in the tag. This is our final project and none of us are experienced with them so we're wondering where to start.</p>		<p>Anything helps!</p>		<p>So far through research we're pretty sure we should use a cordova app at to build the mobile application but that's pretty much it.</p>	"

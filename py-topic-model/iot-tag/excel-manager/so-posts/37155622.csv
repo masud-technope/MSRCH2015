@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+37155622,37155622,null,1,3,Wed May 11 07:16:00 EDT 2016,1864986,"<p>I am currently searching for a solution to get 2 unique strings on the RPI with Windows IoT. The strings should not change after reboot. It should be something like an Hardware ID to identify a device.</p>	"
+37155622,41802443,37155622,2,0,Mon Jan 23 09:01:00 EST 2017,371933,"<p>You could get the MAC address of your nework card, which should Uniquely identify it every single time. </p>		<pre><code>var macAddr = 	    (	        from nic in NetworkInterface.GetAllNetworkInterfaces()	        where nic.OperationalStatus == OperationalStatus.Up	        select nic.GetPhysicalAddress().ToString()	    ).FirstOrDefault();	</code></pre>	"

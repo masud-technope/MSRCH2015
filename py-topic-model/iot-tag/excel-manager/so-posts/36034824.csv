@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+36034824,36034824,null,1,0,Wed Mar 16 11:47:00 EDT 2016,829543,"<p>i have a configured Mosquitto MQTT broker... </p>		<p>I'd like to <strong>kick</strong> or <strong>ban</strong> a user for an amount of time?</p>		<p>How can i do this from another subscribed client? 	Should i do this from the broker? How?</p>	"
+36034824,36035478,36034824,2,3,Wed Mar 16 12:17:00 EDT 2016,504554,"<p>You can't block on a client id basis, the only option would be to enable ACLs with a database back end (something like <a href="https://github.com/jpmens/mosquitto-auth-plug" rel="nofollow">https://github.com/jpmens/mosquitto-auth-plug</a>) and then update the database to remove access to topics to specific users.</p>	"
+36034824,59740615,36035478,3,0,Wed Mar 16 20:15:00 EDT 2016,504554,"Yes, you can set topic level filters"
+36034824,59738350,36035478,3,0,Wed Mar 16 19:13:00 EDT 2016,829543,"So... a background process to update ACL in Mysql?	Is this plugin capable to filter topics?"

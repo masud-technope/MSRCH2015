@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+38221867,38221867,null,1,0,Wed Jul 06 10:31:00 EDT 2016,5814854,"<p>I'm sure this is an extremely easy question but cannot seem to figure it out. I have two sliders in my app using c# and xaml. The problem I am encountering is I cannot change the colour of the little slide tab from the standard pink when it is not clicked. I can change the colour of the bar goth left and right using foreground and background just not the actual slider tab itself. Not sure if it is worth noting but in the designer it's blue.<a href="http://i.stack.imgur.com/QK2sD.jpg" rel="nofollow">Picture of the slider tab in question</a></p>		<p>Thanks in advance.</p>	"
+38221867,63865981,38221867,3,2,Wed Jul 06 10:35:00 EDT 2016,1590485,"http://stackoverflow.com/questions/19123301/change-slider-bar-color There"
+38221867,63866723,38221867,3,0,Wed Jul 06 10:56:00 EDT 2016,5814854,"Great! Thanks a lot, I knew it would be easy."

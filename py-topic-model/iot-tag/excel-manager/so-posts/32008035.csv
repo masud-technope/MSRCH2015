@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+32008035,32008035,null,1,1,Fri Aug 14 10:35:00 EDT 2015,482176,"<p>I am following the instructions to setup Windows 10 on my Raspberry Pi 2.</p>		<p><a href="http://ms-iot.github.io/content/en-US/win10/SetupPCRPI.htm" rel="nofollow">http://ms-iot.github.io/content/en-US/win10/SetupPCRPI.htm</a></p>		<p>Why do I need to enable Windows Developer Mode on my desktop to develop on the Raspberry Pi? Or have I misinterpreted the instructions?</p>	"
+32008035,32015853,32008035,2,1,Fri Aug 14 17:42:00 EDT 2015,69092,"<p>You could deploy your app to RaspberryPi without "Developer Mode" enabled and it would still work.</p>		<p>However, when working with "Universal Apps" in Visual Studio, the XAML designer won't work if "Developer Mode" isn't enabled.</p>	"
+32008035,51940344,32015853,3,0,Fri Aug 14 21:30:00 EDT 2015,482176,"So the instructions on "Getting Started" is for more than just IoT devices..."

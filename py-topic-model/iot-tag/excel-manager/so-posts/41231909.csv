@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+41231909,41231909,null,1,3,Mon Dec 19 22:17:00 EST 2016,7318352,"<p>I cannot get the graphs and statistics of collect view example. I have run the simulation for many minutes, but when I go to tools and select collect view the nodes portion in the next window is empty and I have also selected start collect and send commands to nodes but no luck nothing shows up on the graphs :</p>		<p><img src="https://i.stack.imgur.com/GPCza.png" alt="simulation picture click to view"></p>	"
+41231909,70156426,41231909,3,2,Wed Jan 04 23:55:00 EST 2017,7318352,"Any one ???????"
+41231909,90569625,41231909,3,0,Sun Aug 12 08:37:00 EDT 2018,1590563,"Any solutions so far?"
+41231909,79465454,41231909,3,0,Sat Sep 16 06:30:00 EDT 2017,4097495,"did you solve this problem? i still have this problem!"
+41231909,53595939,41231909,2,-1,Mon Dec 03 14:35:00 EST 2018,3710421,"<p>The answer is that the devices do not send the relevant parameters. If you have made the necessary adjustments, you can see the battery and other operations of the devices. Samples of sink.c and sender.c will help your work. At first I had worked hard on me, but later I managed to solve this problem with the related settings.</p>	"

@@ -1,0 +1,9 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+50419023,50419023,null,1,0,Fri May 18 20:45:00 EDT 2018,8848599,"<p>I purchased a 5inch touchscreen WaveShark.</p>		<p><a href="https://www.waveshare.com/wiki/5inch_HDMI_LCD_(H)" rel="nofollow noreferrer">Screen model</a></p>		<p>I connected it to the board Raspberry Pi3 model B (OS Android Things) and it immediately displayed the contents of the program.</p>		<p>After that, I decided to go into the screen settings with the help of hardware keys.</p>		<p>As a result, the screen goes out and does not detract from the contents of the programs. Simply black screen without backlight.</p>		<p>Can I reset the screen to factory settings? Or how can I solve this problem differently?</p>		<p>Thanks for the help.</p>	"
+50419023,87855594,50419023,3,0,Fri May 18 22:40:00 EDT 2018,3290339,"reflash the OS image"
+50419023,87862092,50419023,3,0,Sat May 19 09:14:00 EDT 2018,8848599,"Thank you, but that didn't help"
+50419023,87864036,50419023,3,0,Sat May 19 11:10:00 EDT 2018,6950238,"Try to connect your display to PC (via HDMI) and restore settings manually. And make sure, that settings fo display: [`hdmi_group=2	hdmi_mode=87	hdmi_cvt 800 480 60 6 0 0 0	hdmi_drive=1`](https://www.waveshare.com/wiki/5inch_HDMI_LCD_(H)#Working_with_Raspberry_Pi): is in your `config.txt` file."
+50419023,87864504,50419023,3,0,Sat May 19 11:41:00 EDT 2018,8848599,"Sorry, but how do I get restore setting using PC?"
+50419023,87882407,50419023,3,0,Sun May 20 11:03:00 EDT 2018,6950238,"Probably you can see display menu."
+50419023,87882479,50419023,3,0,Sun May 20 11:08:00 EDT 2018,8848599,"No, I don't see the menu :("
+50419023,87882600,50419023,3,0,Sun May 20 11:15:00 EDT 2018,6950238,"In that case, seems your display was broken."

@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+52798782,52798782,null,1,0,Sun Oct 14 01:41:00 EDT 2018,10501140,"<p>I have been researching for hours and cannot figure this out. The closest I have gotten is an austo-magnetic sensor which is used in clothing stores. I am developing a prototype that has a sensor within a wristband, when the user walks by another sensor, these sensors will be triggered and report this data back to a custom-built iPhone app. I am thinking of using Adafruit sensors.</p>		<p>Thank you so much!!! :D</p>	"

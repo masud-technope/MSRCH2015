@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+53114086,53114086,null,1,1,Fri Nov 02 07:11:00 EDT 2018,919088,"<p>It is not working. i am using </p>		<pre><code>select * as data, topic() as topic from '/IN/T/+/+/TREND',	</code></pre>		<p>either i am getting topic by </p>		<pre><code>select topic() AS topic from '/IN/T/+/+/TREND'	</code></pre>		<p>or just data as </p>		<pre><code>select * from '/IN/T/+/+/TREND'	</code></pre>		<p>I want both, any help?</p>	"
+53114086,57434101,53114086,2,0,Fri Aug 09 16:36:00 EDT 2019,3479125,"<pre><code>select *,topic() AS topic from '/IN/T/+/+/TREND'	</code></pre>	"

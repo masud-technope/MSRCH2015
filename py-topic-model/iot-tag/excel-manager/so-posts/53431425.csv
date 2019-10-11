@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+53431425,53431425,null,1,0,Thu Nov 22 12:49:00 EST 2018,10656923,"<p>i am trying to retrieve data from the public stations of Netatmo for a specific area. I managed to get current data within a specific bounding box using the Getpublicdata method, but the problem is that i need historical data. I have tried the Getmeasure method as well, but this results in an error due to permissions i guess.	So my questions is - is there a way to retrieve historical data for a specific area using the Netatmo API?</p>	"

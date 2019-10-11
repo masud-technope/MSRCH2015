@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+49715264,49715264,null,1,-2,Sun Apr 08 06:49:00 EDT 2018,9610562,"<p>How do I fix these errors in NodeMCU, which reports that multiple libraries were found for servo.h?</p>		<pre><code>Multiple libraries were found for "Servo.h"	 Used: C:\Users\username\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.1\libraries\Servo	 Not used: C:\Program Files (x86)\Arduino\libraries\Servo	exit status 1	'myservo' does not name a type	</code></pre>	"
+49715264,86463607,49715264,3,1,Mon Apr 09 02:44:00 EDT 2018,1136195,"Duplicate of https://stackoverflow.com/questions/49704566/multiple-libraries-were-found-servo-h"
+49715264,86489487,49715264,3,0,Mon Apr 09 16:36:00 EDT 2018,794749,"Possible duplicate of [Multiple libraries were found servo.h](https://stackoverflow.com/questions/49704566/multiple-libraries-were-found-servo-h)"
+49715264,49876748,49715264,2,0,Tue Apr 17 11:21:00 EDT 2018,9562153,"<p>The NodeMCU boards use theire own librarys to controll servos. You can't use the normal servo library with the NodeMCU.</p>	"

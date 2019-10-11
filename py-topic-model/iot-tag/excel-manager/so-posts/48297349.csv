@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+48297349,48297349,null,1,0,Wed Jan 17 09:11:00 EST 2018,9228191,"<p>Can a device be 'owned' by more than one owner? Example, a heater device is owned by different users (from google verifier), controlled by each of their Android phones.</p>	"
+48297349,85973503,48297349,3,0,Mon Mar 26 06:47:00 EDT 2018,9228191,"I ran my own test. Installed Kaa v010.0 on an EC2 instance Ubuntu 16.04, ran multiple android emulations, tried adding a java program running as a device as assisted attachment, it attached on the first android app user, on the second android app user it could not attach. SO I guess the answer is NO, the device can not have more than one owner."
+48297349,49485478,48297349,2,0,Mon Mar 26 06:49:00 EDT 2018,9228191,"<p>NO. In Kaa v0.10.0 The device can only be owned by one user in User Verification and Ownership. Proof is on the comment I added in the question.</p>	"

@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+48097301,48097301,null,1,-4,Thu Jan 04 14:24:00 EST 2018,8236238,"<p>I am new to Raspberry pi, I want to keep my pi "running all the time". In case of power down it should automatically switch to secondary supply.	( Can powerbank work in this case.. if yes then please help)	Thank You !</p>	"
+48097301,83174982,48097301,3,0,Thu Jan 04 16:54:00 EST 2018,8236238,"@zteffi thank you.. i am beginner. I will keep that in mind."
+48097301,83169813,48097301,3,2,Thu Jan 04 14:32:00 EST 2018,2962048,"stack overflow is a place for programming questions. I recommend posting this to [raspberrypi](https://raspberrypi.stackexchange.com/)"
+48097301,48097437,48097301,2,0,Thu Jan 04 14:32:00 EST 2018,5634425,"<p>I think you need an UPS for raspberry. The powerbank can not be charged while a load is connected. </p>		<p>This is what you need:	<a href="http://www.allspectrum.com/mopower/" rel="nofollow noreferrer">http://www.allspectrum.com/mopower/</a></p>		<p>Next time post in the correct site: raspberrypi.stackexchange.com</p>	"
+48097301,83175091,48097437,3,0,Thu Jan 04 16:57:00 EST 2018,8236238,"Thank You  for your time !!"

@@ -1,0 +1,8 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+36997774,36997774,null,1,7,Tue May 03 07:04:00 EDT 2016,350878,"<p>I tried to install library ESP8266WebServer into platformio IDE.	I got this error "functional: No such file or directory". A bit of research of "functional", <a href="http://www.cplusplus.com/reference/functional/" rel="noreferrer">http://www.cplusplus.com/reference/functional/</a></p>		<pre><code>In file included from configMode.cpp:13:0:	.pioenvs/uno/ESP8266WebServer/ESP8266WebServer.h:27:22: fatal error: functional: No such file or directory	#include &lt;functional&gt;	^	compilation terminated.	</code></pre>	"
+36997774,87496022,36997774,3,0,Tue May 08 17:40:00 EDT 2018,7274239,"Is there any progress in solution this problem ?"
+36997774,86875262,36997774,3,0,Thu Apr 19 20:25:00 EDT 2018,5987,"Check the include path that the compiler is using."
+36997774,87552194,36997774,3,0,Thu May 10 06:53:00 EDT 2018,350878,"I think I use vim instead at the end."
+36997774,75758005,36997774,3,0,Mon Jun 05 22:20:00 EDT 2017,1414,"I'm getting the same error, with the same class on https://create.arduino.cc/editor"
+36997774,49929562,36997774,2,0,Thu Apr 19 20:19:00 EDT 2018,7274239,"<p>The name of library i most cases should start with upper case character and ends <strong>.h</strong> .</p>		<p>In this case I guess that it looks like this:</p>		<pre><code>#include &lt;Functional.h&gt;	</code></pre>	"
+36997774,86875190,49929562,3,0,Thu Apr 19 20:22:00 EDT 2018,5987,"That is true for C but not C++. The include file is a standard, see http://en.cppreference.com/w/cpp/header/functional"

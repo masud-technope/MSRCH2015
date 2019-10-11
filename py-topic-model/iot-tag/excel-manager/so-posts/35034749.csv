@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+35034749,35034749,null,1,0,Wed Jan 27 10:27:00 EST 2016,1693776,"<p>I have a 5V operating Arduino device, to which I connected a Bluetooth module which works under 3.3V. Right now I connected the bluetooth module to 5V pin of Arduino through 10K and 22K resistors to limit the volt.</p>		<p>But shall I connect the bluetooth module to 3.3V pin so that I don/t need resistors? </p>	"
+35034749,57794280,35034749,3,0,Wed Jan 27 10:29:00 EST 2016,20862,"Where did you hear that a resistor would work in the first place?"
+35034749,57794380,35034749,3,0,Wed Jan 27 10:31:00 EST 2016,1693776,"http://42bots.com/tutorials/how-to-connect-arduino-uno-to-android-phone-via-bluetooth/"
+35034749,57794467,35034749,3,0,Wed Jan 27 10:33:00 EST 2016,20862,"... The resistors in that article are connected to the signal, not the supply."
+35034749,57794888,35034749,3,0,Wed Jan 27 10:44:00 EST 2016,2261062,"My experience with 3.3V bluetooth modules is that you can connect them to the 3.3V Arduino pin for power supply and use the regular 5V TX and RX pins for communication.	Arduino will correctly read 3.3V from the Bluetooth module as a 1. And giving 5V data signals to the Bluetooth will not damage it. Just make sure that the power supply is 3.3V"

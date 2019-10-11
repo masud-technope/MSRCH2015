@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+54280913,54280913,null,1,0,Sun Jan 20 20:57:00 EST 2019,7903641,"<p>I have written a mobile application to fetch Accelerometer data from TI CC2650STK in evothings. I am thinking of storing the data in some text file if I am offline and then when I come online the app will forward that data to my server. 	<strong>Is it possible? If yes How???</strong></p>	"
+54280913,54371496,54280913,2,0,Fri Jan 25 19:12:00 EST 2019,7903641,"<p>I have managed to do it via cordova-plugin-file. Attached is the link	<a href="https://www.tutorialspoint.com/cordova/cordova_file_system.htm" rel="nofollow noreferrer">cordova-plugin-file usage</a></p>	"

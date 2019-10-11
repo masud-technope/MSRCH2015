@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55989282,55989282,null,1,0,Sun May 05 06:06:00 EDT 2019,10045201,"<p>I have implemented a program for sending sensors' data from Raspberry Pi to <strong><em>ThingSpeak</em></strong> . And those data will be gathered from android app and the app is supposed to be as a control. But I don't know how to send control data through ThingSpeak so that I can drive actuators at the Rapberry Pi . How can I achieve this ? Can you suggest me if there is alternative solution rather than ThingSpeak?</p>	"

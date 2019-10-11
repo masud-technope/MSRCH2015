@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+40012025,40012025,null,1,0,Thu Oct 13 03:52:00 EDT 2016,6690213,"<p>I am fairly new to microcontrollers and programming them, etc. </p>		<p>I have been working with Arduino uno and ESP8266 12E module. I have been successful in developing a prototype for IOT Automaion.</p>		<p>Now I want to integrate a new chip (Microcontroller + WiFi) by High Flying. Its called the HF SIP120.</p>		<p>But I have never worked with anything other than arduino. I am clueless on how to go ahead to use the new SIP120.</p>		<p>It might sound a dumb Question. But I am a complete Amateur. Any kind of help is much appreciated.</p>		<p>Thank You.</p>	"
+40012025,67301871,40012025,3,0,Thu Oct 13 03:57:00 EDT 2016,20862,"Step 1: Write a core for the platform."
+40012025,67302002,40012025,3,0,Thu Oct 13 04:07:00 EDT 2016,6690213,"The device I want to use says it supports AT- firmware. So by writing a core for the platform, you mean I will have to convert the entire Arduino Code into a code that uses AT commands?"
+40012025,67305248,40012025,3,0,Thu Oct 13 06:38:00 EDT 2016,3082873,"Start with getting the device SDK. Then you possibly find related examples in it."
+40012025,67357578,40012025,3,0,Fri Oct 14 10:31:00 EDT 2016,6601582,"What OS running on your Microcontroller?"

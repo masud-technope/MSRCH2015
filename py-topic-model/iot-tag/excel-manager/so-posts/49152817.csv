@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+49152817,49152817,null,1,0,Wed Mar 07 13:12:00 EST 2018,4019390,"<p>I am working on storm  topology . When I checked the storm log I can see that there is two hour time difference between time at which events are received at IOT hub and the time on which events delivered to data pipeline my topology.</p>		<p>Can anyone have any idea what might be the probable cause of this time lag.</p>	"
+49152817,85336739,49152817,3,0,Thu Mar 08 04:58:00 EST 2018,4019390,"Devices , IOT hub and , topology server are in same timezone"
+49152817,85548502,49152817,3,1,Wed Mar 14 08:35:00 EDT 2018,6601582,"Can you show the log where you found the two-hour time difference?"
+49152817,85310415,49152817,3,0,Wed Mar 07 13:24:00 EST 2018,932728,"Are you taking in account any timezones etc?"

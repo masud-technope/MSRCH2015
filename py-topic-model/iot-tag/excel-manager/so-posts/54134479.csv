@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+54134479,54134479,null,1,0,Thu Jan 10 18:00:00 EST 2019,4785872,"<p>We want to support the Wi-Fi Provisioning (provide  WiFi credential) in case of BLE Homekit accessory supporting Homekit spec R12. And as per the HomeKit specs, R12 onwards legacy WAC(WiFi accessory configuration) support is disabled. They support WAC2, but WAC2 is for IP accessory only. So in that reference, is there any way out to perform Wi-Fi Provisioning for BLE HomeKit accessories.</p>	"

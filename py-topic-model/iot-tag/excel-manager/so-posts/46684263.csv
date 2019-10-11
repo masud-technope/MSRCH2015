@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+46684263,46684263,null,1,0,Wed Oct 11 09:10:00 EDT 2017,5525662,"<p>What is the difference between data mining and data minimization.	Especially in the context of Internet of things.Most of the information gathered by me was about the data minimizing role in the internet of things,but no one has discussed their co relation.   </p>	"
+46684263,80316803,46684263,3,0,Wed Oct 11 09:26:00 EDT 2017,207421,"The difference is that they are not the same thing, even slightly."
+46684263,80316248,46684263,3,0,Wed Oct 11 09:14:00 EDT 2017,4432541,"This is an opinion based question. Is there a specific task that you need assistance with ?"

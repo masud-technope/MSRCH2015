@@ -1,0 +1,8 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57782353,57782353,null,1,0,Wed Sep 04 06:04:00 EDT 2019,11646276,"<p>I have a <strong>Zidoo</strong> android box. So i need to build and run my android app over that android box and detect crashes. But i don't have a any cable for it. I want to know any solution for it.(Zidoo device have only two USB ports only)</p>	"
+57782353,101999168,57782353,3,0,Wed Sep 04 06:31:00 EDT 2019,11646276,"is there a an one who knows any solutions for it it let me know as soon as possible."
+57782353,101999901,57782353,3,0,Wed Sep 04 07:02:00 EDT 2019,1568530,"you can try to use ADB-over-wifi"
+57782353,102000138,57782353,3,0,Wed Sep 04 07:11:00 EDT 2019,11646276,"@VladyslavMatviienko for that, before use need to connect device at least once my android studio.without that port not enable."
+57782353,102001769,57782353,3,0,Wed Sep 04 08:07:00 EDT 2019,1568530,"ok, then other way - you can use one of many crash reporting tools to get the crash logs without connecting the device"
+57782353,102029820,57782353,3,0,Thu Sep 05 04:53:00 EDT 2019,11646276,"@VladyslavMatviienko but i can't get system errors by using crash reporter.That is a problem."
+57782353,102029932,57782353,3,0,Thu Sep 05 05:00:00 EDT 2019,1568530,"what you mean by system errors?"

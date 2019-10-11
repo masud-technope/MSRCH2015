@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57284026,57284026,null,1,0,Wed Jul 31 05:47:00 EDT 2019,166417,"<p>what is the guideline whether to create an attribute of a thing or a property of shadow? e.g. we have a device, it is associated to a sensor type, and a sensor type has a bunch of properties, should we treat those properties as thing attribute or shadow property? pros and cons?</p>	"

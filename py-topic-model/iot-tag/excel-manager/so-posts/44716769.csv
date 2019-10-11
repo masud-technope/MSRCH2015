@@ -1,0 +1,9 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+44716769,44716769,null,1,0,Fri Jun 23 08:35:00 EDT 2017,4518524,"<p>I have my python code with MongoDB running over Raspbian OS and I want get shifted to the Windows 10 IOT core os of Raspberry PI.</p>		<p>I just want to know how can I install MongoDB over the Windows IOT core.</p>		<p>Thanks</p>	"
+44716769,76492177,44716769,3,0,Mon Jun 26 08:31:00 EDT 2017,4518524,"Hello @RitaHan-MSFT thanks for reply but the person has answered wrong. I've myself installed MongoDB on Raspbian and Ubuntu Mate"
+44716769,76492203,44716769,3,0,Mon Jun 26 08:32:00 EDT 2017,4518524,"But they're quire heavier os for Raspberry Pi I'm trying to deploy it on Windows IOT Core"
+44716769,76485293,44716769,3,0,Mon Jun 26 01:41:00 EDT 2017,6601582,"You can check [this](https://stackoverflow.com/questions/38376019/windows-iot-mongodb-raspberry/38386632#38386632)."
+44716769,76550606,44716769,3,0,Tue Jun 27 16:01:00 EDT 2017,4518524,"Thanks @RitaHan-MSFT I'll Try"
+44716769,76522665,44716769,3,0,Tue Jun 27 01:23:00 EDT 2017,6601582,"You can use [SSH tool](https://developer.microsoft.com/en-us/windows/iot/docs/ssh)."
+44716769,76493171,44716769,3,1,Mon Jun 26 09:03:00 EDT 2017,6601582,"You can try to build from [source code](https://github.com/mongodb/mongo)."
+44716769,76493351,44716769,3,0,Mon Jun 26 09:09:00 EDT 2017,4518524,"I'd love to do that but Windows IOT core doesn't have terminal/command prompt"

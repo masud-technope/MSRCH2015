@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+56238266,56238266,null,1,0,Tue May 21 12:26:00 EDT 2019,9787444,"<p>I have created one Device provision service. Then I have created enrollment group to the provision of a device to IOT Hub. It's working fine and the device is also able to provision. 	By default, Device will enable for connection to IOT Hub after provision.</p>		<p>Question: Now if I want that when the device will provision it will be in disable state. Is it possible or another way to do the same?</p>	"

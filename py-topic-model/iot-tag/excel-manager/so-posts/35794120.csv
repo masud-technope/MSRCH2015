@@ -1,0 +1,7 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+35794120,35794120,null,1,1,Fri Mar 04 10:50:00 EST 2016,5868260,"<p>I'm new to Microsoft Azure IoT Hub. Is there any way I can change or convert HTTPS to HTTP? I use NodeMCU esp8266 to send Data to Azure IoT Hub. But It only said " Connected " and it didn't monitor or return value Json in Device Explorer.</p>	"
+35794120,36414748,35794120,2,1,Mon Apr 04 23:45:00 EDT 2016,6051924,"<p>Any traffic to Azure IoT Hub has to be over SSL (be it HTTP, AMQP or MQTT). So I guess the answer is no, you can't switch from HTTPS to HTTP. </p>		<p>Can you give more details on what sample code you're using, how you're building it for NodeMCU, etc?</p>	"
+35794120,70292971,36414748,3,0,Mon Jan 09 08:57:00 EST 2017,933207,"If it has to be always SSL, why port 8883 or for webscokets - 443 open? (ref: https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-mqtt-support )"
+35794120,60449939,36414748,3,0,Tue Apr 05 05:02:00 EDT 2016,5868260,"Well actually, we were used LUA for the NodeMCU with some sensors. We tried to sent the data from the NodeMCU but seems like the Microsoft Azure was not received the data that has been sent from NodeMCU. Some said that the NodeMCU doesn't support HTTPS."
+35794120,60542765,36414748,3,0,Thu Apr 07 02:32:00 EDT 2016,5868260,"Thank you very much sir ."
+35794120,60490278,36414748,3,0,Tue Apr 05 21:52:00 EDT 2016,6051924,"Got it. I'm not familiar with NodeMCU but I'll be looking forward to other folks contributing to the answer. if I get my hands on one, i'll try."

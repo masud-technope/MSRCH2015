@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+35137661,35137661,null,1,-3,Mon Feb 01 18:25:00 EST 2016,5265056,"<p>I am interested in <strong>physical web</strong> (beacon). </p>		<p>How do I start my work regarding this technology?</p>	"
+35137661,58005977,35137661,3,0,Tue Feb 02 00:17:00 EST 2016,2591689,"These sort of questions really bum me out.  There is a website called Google.com.  Have you tried using it for research?  Please at least try on your own before asking others.  I am going to close this."
+35137661,35137740,35137661,2,-1,Mon Feb 01 18:30:00 EST 2016,5866151,"<p>There are few tutorials, Please go through the following links: <a href="https://google.github.io/physical-web/" rel="nofollow">https://google.github.io/physical-web/</a></p>	"
+35137661,57995578,35137740,3,1,Mon Feb 01 18:33:00 EST 2016,812786,"Welcome to Stack Overflow! Please take a minute to look at [answer]. In particular, link-only answers are discouraged here since the external website may change, instead, summarize and quote the relevant information in your answer."

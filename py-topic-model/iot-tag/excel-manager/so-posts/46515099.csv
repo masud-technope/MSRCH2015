@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+46515099,46515099,null,1,0,Sun Oct 01 17:40:00 EDT 2017,4842521,"<p>I wrote an algorithm for authentication in iot home network.	Now i want to evaluate it with related works.(Without using real testbed)	Can I use Cooja simulator to do it?	Or Its better to use omnet++?</p>	"
+46515099,80039301,46515099,3,0,Tue Oct 03 10:42:00 EDT 2017,2435820,"At the moment this post is not a good fit for StackOverflow. Please look at [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask) and reformulate this query to a specific question."
+46515099,80040019,46515099,3,0,Tue Oct 03 11:03:00 EDT 2017,7468409,"You definitely need to extend your question with additional information (set-up, protocol stack, etc.) to allow any kind of answer to your question!"

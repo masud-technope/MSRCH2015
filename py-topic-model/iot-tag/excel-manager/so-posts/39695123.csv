@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+39695123,39695123,null,1,1,Mon Sep 26 05:15:00 EDT 2016,5782310,"<p>I actually wanted a conditional statement varying an output. For example, if temperature&lt;0 do something, likewise if temperature>50 do something. I wanted to know how is it possible to have this conditional case in Azure Iot? What should i follow? What term should I be looking for? Please help.</p>	"
+39695123,66694897,39695123,3,0,Mon Sep 26 08:41:00 EDT 2016,5782310,"Why is this down voted?"
+39695123,39706757,39695123,2,2,Mon Sep 26 15:28:00 EDT 2016,793891,"<p>You can query the IoT Hub messages flow in real time using Stream Analytics.  You'll write a SQL like query with your condition (temperature&lt;0) that will then send a message to an output like an Event Hub message queue or write to a database. </p>	"

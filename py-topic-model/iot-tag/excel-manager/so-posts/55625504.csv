@@ -1,0 +1,7 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55625504,55625504,null,1,0,Thu Apr 11 05:47:00 EDT 2019,7765311,"<p>I am working on an IoT project, where I have built my device using a Raspberry Pi. Now I want to send data captured by my device to my back-end server, which is a Django server. Also sending data should be done real-time. I am using a GSM module to connect the device to internet. The Django server is in my local PC. </p>		<p>How can I establish the connection between my Raspberry Pi and Django server?</p>	"
+55625504,97944078,55625504,3,0,Thu Apr 11 06:30:00 EDT 2019,7765311,"Since my django server is in localhost(port 8080), is it possible to get the ip address of the iot device through Django REST interface? or is there any other possible way to establish the connection while in the localhost?"
+55625504,97943347,55625504,3,0,Thu Apr 11 05:58:00 EDT 2019,4759361,"If your PC doesn't have a public IP, then you can use [ngrok](https://ngrok.com/) to expose your Django server to the internet."
+55625504,97943554,55625504,3,0,Thu Apr 11 06:08:00 EDT 2019,11193405,"If you don't have a public IP address you can't connect to the devices, unless you are in a LAN."
+55625504,97944197,55625504,3,0,Thu Apr 11 06:35:00 EDT 2019,4759361,"@Primesh see my comment about ngrok."
+55625504,97949486,55625504,3,0,Thu Apr 11 09:21:00 EDT 2019,7765311,"@Rishav Thanks, I will."

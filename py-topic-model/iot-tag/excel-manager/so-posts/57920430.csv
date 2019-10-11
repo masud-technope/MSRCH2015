@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57920430,57920430,null,1,0,Fri Sep 13 08:59:00 EDT 2019,12056368,"<p>I am trying to send data from <code>arduino</code>to <code>esp-01</code> but i am only able to send integer values or If i am sending floating values it is received as integer by <code>esp-01</code> through software serial</p>		<p>I tried sending with software serial, also tried typecasting float to string but it was giving me error while passing string to <code>myserial.write(STRING)</code></p>		<pre><code>data = 0.00005146;	myserial.write(data);	</code></pre>	"
+57920430,102260446,57920430,3,0,Fri Sep 13 09:56:00 EDT 2019,8516269,"please click 'improve' instead of 'reject and edit' if you use most of my changes while editing your post."
+57920430,102281088,57920430,3,0,Sat Sep 14 02:38:00 EDT 2019,947373,"Pls post entire code"

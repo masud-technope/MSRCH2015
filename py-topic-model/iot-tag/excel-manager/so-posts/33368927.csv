@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+33368927,33368927,null,1,0,Tue Oct 27 13:10:00 EDT 2015,2799109,"<p>I was having some issues to connect my devices (Lumia 925 and Lumia 930) with Arduino, using Virtual Shields for Arduino. The app doesn't worked, frozed and crashed. </p>	"
+33368927,33368928,33368927,2,0,Tue Oct 27 13:10:00 EDT 2015,2799109,"<p>The main reason for that, was the baud rate of the bluetooth adaptor. Despite that the vendor's site tells that the correct baud rate is 9600, my code only worked when I put it in 34800 (i.e. shield.begin(34800);). I hope that this information help someone. 	Some sites says that the correct voltage is 3.3V. My device only worked in 5V.</p>	"
+33368927,36392891,33368927,2,0,Mon Apr 04 00:18:00 EDT 2016,915087,"<p>The app has been updated a couple times since October. Please try the updated Windows Store app also.</p>	"

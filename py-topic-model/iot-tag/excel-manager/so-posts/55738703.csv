@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55738703,55738703,null,1,0,Thu Apr 18 03:24:00 EDT 2019,2767629,"<p>I try to design the topic structure for manage devices in factory	Should I create only one general topic and all devices need subscribe to. With this way, we must do some filter at device code to receive exactly message</p>	"
+55738703,98167057,55738703,3,0,Thu Apr 18 11:35:00 EDT 2019,504554,"Without a lot more details about the system you are trying to build we can't even offer suggestions on what would work in your situation."
+55738703,98157101,55738703,3,0,Thu Apr 18 06:00:00 EDT 2019,504554,"This question has no correct answer, only opinions and as such is off topic for StackOverflow"

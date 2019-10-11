@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+38121260,38121260,null,1,0,Thu Jun 30 11:03:00 EDT 2016,6496053,"<p>I want to use the Windows IoT Remote Client tool to connect to my Raspberry Pi 2 but I'm not able to connect.</p>	"
+38121260,38125739,38121260,2,2,Thu Jun 30 14:13:00 EDT 2016,5358450,"<p>Make sure you are running a build that actually supports this feature. You can easily check this by looking in the Device Portal. If the last menu tab is called 'Remote' you have a build that support this feature.</p>		<p>You also need to enable this feature using the same menu tab.</p>	"

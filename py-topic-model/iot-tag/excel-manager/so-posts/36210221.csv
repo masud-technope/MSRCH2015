@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+36210221,36210221,null,1,0,Thu Mar 24 21:23:00 EDT 2016,5840615,"<p>What happens if I submit the job multiple times in IBM Watson IoT Driver Insights?	The older analysis result is overwritten by new analysis result?</p>	"
+36210221,36214149,36210221,2,0,Fri Mar 25 04:44:00 EDT 2016,6112555,"<p>The older analysis result is not overwritten by new analysis result.	Each analysis has different result. When you use the same data and the configuration parameters, you will have the same analysis result in multiple times. But when you change the the configuration parameters, you might get different analysis result even if you use the same data. </p>	"

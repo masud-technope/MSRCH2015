@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+37987033,37987033,null,1,0,Thu Jun 23 09:06:00 EDT 2016,4293609,"<p>I am wondering if the Leshan server can provide persistance.	Let's say I want to store my device reporting information events for some time.	Can I do that using Leshan? or I have to implemented by my self? </p>		<p>Thanks.</p>	"
+37987033,37995114,37987033,2,3,Thu Jun 23 14:52:00 EDT 2016,660374,"<p>Persisting the received data is not in the Leshan scope. You need to do it yourself by listening the incoming data and putting them in a store</p>	"

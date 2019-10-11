@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55621656,55621656,null,1,0,Wed Apr 10 21:37:00 EDT 2019,4592051,"<p>How can connect physical sensor to kaa middleware?	I use Kaa free version for create IOT stack, but there is no documentation for integration hardware sensor to Kaa.	so I need example or documentation or instructions for add some hardware sensor to Kaa middleware. anyone can help me?</p>	"

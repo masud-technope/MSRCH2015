@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55389463,55389463,null,1,0,Thu Mar 28 02:49:00 EDT 2019,5866810,"<p>Recently, my company is developing a tracker product which use WIFI,GPS and network to locate. Now we have a problem that we not sure if we can use the Google Geolocation API for cell towers locating for T-Mobile Nb-iot or AT&amp;T Cat-M1 networks. That requires we send the nb-iot cell tower information to Google and get back an approximate location. Does anyone have some experience about this?</p>	"

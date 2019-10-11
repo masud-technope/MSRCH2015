@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55097165,55097165,null,1,0,Mon Mar 11 07:39:00 EDT 2019,6162968,"<p>I have an IoT device communicating with Android phone (reading and writing). It mostly works, but sometimes it comes to the point where UsbDeviceConnection returns -1 on bulkTransfer method. Sometimes it recovers by itself, but sometimes it gets stuck and keeps returning -1. Is there a way to "get out" of that state, some way to recover? </p>		<p>Buffer length is 4096, and timeout is: 10000 ms</p>	"

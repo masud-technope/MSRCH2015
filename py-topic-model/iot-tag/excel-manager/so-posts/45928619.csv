@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+45928619,45928619,null,1,0,Mon Aug 28 23:25:00 EDT 2017,6627594,"<p>I have Android Things 0.5.1 installed in a Raspberry Pi 3 and connected to a HDMI monitor. But I want to use the monitor in portrait mode, although nothing seems to work. Ive tried with lcd_rotation, and display_rotation, even setting the resolution manually. Any ideas?</p>	"
+45928619,78824459,45928619,3,0,Tue Aug 29 07:31:00 EDT 2017,6950238,"Take a look at [this](https://stackoverflow.com/a/41166605/6950238) answer of [proppy](https://stackoverflow.com/users/656408/proppy)."
+45928619,78824477,45928619,3,0,Tue Aug 29 07:32:00 EDT 2017,6950238,"Possible duplicate of [Screen orientation on Raspberry Pi 3 with Android things](https://stackoverflow.com/questions/41558508/screen-orientation-on-raspberry-pi-3-with-android-things)"
+45928619,78820503,45928619,3,0,Tue Aug 29 05:16:00 EDT 2017,3290339,"Your HDMI settings in `config.txt`?"
+45928619,80290266,45928619,3,0,Tue Oct 10 15:50:00 EDT 2017,1252411,"Hello Carlos, have you figure out how to do it? I'm having a similar issue using HDMI display plugged to my raspberry PI running Android Things."

@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+58218534,58218534,null,1,0,Thu Oct 03 11:51:00 EDT 2019,8203702,"<p>I need to connect the pcm1864 to beaglebone by tdm interface. I actually have working connection by i2s but i2s support only 2 channels therefore I need 4. 	Has anyone working solution to making 4 channel working?</p>	"

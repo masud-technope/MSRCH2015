@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+45065027,45065027,null,1,0,Wed Jul 12 18:23:00 EDT 2017,6210853,"<p>Which database (DBMS) is approved and recommended for storing WSO2 IOT Server 3.0 metadata?</p>		<p>Is it recommended to use a database to store WSO2 IOT Server metadata?</p>		<p>Has anyone done this setup? You have already set up a database to store the metadata of the	WSO2 IOT</p>	"
+45065027,45081325,45065027,2,0,Thu Jul 13 12:57:00 EDT 2017,3603020,"<p>H2 and MySQL both are well tested and recommended DBMS systems to use with WSO2 IoT Server 3.0.0</p>	"
+45065027,45081439,45065027,2,0,Thu Jul 13 13:02:00 EDT 2017,2605902,"<p>It depends on what analyses you want to run on that data. There is no best solution thats beats all others.</p>	"

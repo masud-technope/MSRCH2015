@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+36780335,36780335,null,1,0,Thu Apr 21 20:58:00 EDT 2016,6237692,"<p>Our setup is:</p>		<ol>	<li>Intel Edison reads raw data from MPU6050 at 100Hz and calibrates</li>	<li>Intel Compute Stick needs to read this data from Edison. Its connected with USB.</li>	</ol>		<p>We need to ensure there is no lag as the data needs to be plotted in real time.</p>		<p>To pass data from Edison to Intel Compute Stick we are considering using MQTT but there is an opinion that it may lag due to some internal queue system.</p>		<p>Another option we are looking at is JSON, which could be also cause lagging at 100 readings per second.</p>		<p>Any advise on best protocol to use to communicate the info from Edison boars would be much appreciated, thanks.</p>	"
+36780335,61137596,36780335,3,0,Thu Apr 21 21:16:00 EDT 2016,6237692,"sorry, soldering what?"
+36780335,61137001,36780335,3,0,Thu Apr 21 20:59:00 EDT 2016,973810,"Have you tried soldering it?"
+36780335,83683996,36780335,3,0,Fri Jan 19 20:18:00 EST 2018,504554,"JSON is a data format, MQTT is a network protocol, the 2 are totally un comparable."

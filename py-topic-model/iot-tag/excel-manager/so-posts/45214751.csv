@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+45214751,45214751,null,1,1,Thu Jul 20 12:29:00 EDT 2017,4537164,"<p>I want to know the current internet state on my RPi using windows IoT Core. To get the internet state I am using this method:</p>		<pre><code>public static bool GetInternetConnectionState()	{	    var connection = NetworkInformation.GetInternetConnectionProfile();	    var internet = connection?.GetNetworkConnectivityLevel();	    return internet == NetworkConnectivityLevel.InternetAccess;	}	</code></pre>		<p>When I unplug the internet cable from router, my handler recognize the network has changed but this method still returns internet access true although internet is not available but when I remove the cable from RPi it works great. Does anybody know why is this happening?</p>	"
+45214751,77432081,45214751,3,0,Fri Jul 21 08:52:00 EDT 2017,4537164,"My OS version is v.10.0.15063.0"
+45214751,77432411,45214751,3,0,Fri Jul 21 08:59:00 EDT 2017,6601582,"I test on 15063 but it has no such issue."
+45214751,77432777,45214751,3,0,Fri Jul 21 09:08:00 EDT 2017,4537164,"Yeah it's strange but it's true. The handler recognize the change but this method returns internet access. I use mikrotik router"
+45214751,77422320,45214751,3,0,Fri Jul 21 02:43:00 EDT 2017,6601582,"I can't reproduce your issue. What's your iot core version?"

@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+44955703,44955703,null,1,0,Thu Jul 06 17:43:00 EDT 2017,197082,"<p>I am using windows IoT core version v.10.0.15063.414 on my Raspberry Pi3, sometimes my whole app data files are getting deleted from the publisher cache folder.Any idea ?	I have sqlite files in the cache folder and my UWP application continuously updating that files.</p>	"
+44955703,76912294,44955703,3,0,Fri Jul 07 10:43:00 EDT 2017,197082,"There is only one app which use this folder, and I never called the ClearPublisherCacheFolderAsync method."
+44955703,76898855,44955703,3,0,Fri Jul 07 02:48:00 EDT 2017,6601582,"How many apps use this same folder? Have you called the `ClearPublisherCacheFolderAsync` method? How do you find that "files are getting deleted"?"
+44955703,76979851,44955703,3,0,Mon Jul 10 02:18:00 EDT 2017,6601582,"Can you provide a demo for reproducing this issue?"

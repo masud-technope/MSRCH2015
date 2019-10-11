@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+35332721,35332721,null,1,1,Thu Feb 11 06:58:00 EST 2016,4086836,"<p>What makes IoT environment different from other environments (e.g., cloud, pervasive, web)? In general, the latter are components of the IoT environment, but what are the specific properties of IoT?</p>	"
+35332721,59341161,35332721,3,0,Mon Mar 07 06:23:00 EST 2016,364274,"does my answer help ?"
+35332721,61570351,35332721,3,0,Tue May 03 16:03:00 EDT 2016,4086836,"Thank you for your answer, but I feel that few things are left out. I'm looking to see if someone else came across this question, and can contribute with a more detailed answer."
+35332721,35652614,35332721,2,1,Fri Feb 26 13:09:00 EST 2016,364274,"<p>You've got it all wrong.</p>		<p>IoT is a network of physical things whereas Cloud is an on-demand resource provider (mainly computation and storage).</p>		<p>IoT is a more of a problem or solution identification. Cloud is a platform where you do your computation.</p>	"

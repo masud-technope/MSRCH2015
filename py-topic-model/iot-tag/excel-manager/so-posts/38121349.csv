@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+38121349,38121349,null,1,1,Thu Jun 30 11:07:00 EDT 2016,6496053,"<p>How come there is no data visible for the GPU Utilization in the Windows IoT Core Device Portal?</p>	"
+38121349,63685944,38121349,3,0,Thu Jun 30 15:23:00 EDT 2016,6386258,"What board are you using Windows 10 IoT Core on?"
+38121349,38124909,38121349,2,2,Thu Jun 30 13:42:00 EDT 2016,5358450,"<p>That's because the driver is not yet available to utilize the GPU. You will notice this when doing using video and complex UI's.</p>	"

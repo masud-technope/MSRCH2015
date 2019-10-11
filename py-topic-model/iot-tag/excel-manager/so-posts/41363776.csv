@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+41363776,41363776,null,1,0,Wed Dec 28 14:08:00 EST 2016,1545271,"<p>Can we use KAA 0.8.0 Client SDK with KAA 0.8.1 Server?</p>		<p>Is it possible to use KAA 0.8.0 Client SDK with KAA 0.8.1 Server? 	We are planning to upgrade our server, will this affect our current endpoints?	Any information will be appreciated.</p>	"
+41363776,41398307,41363776,2,1,Fri Dec 30 15:04:00 EST 2016,2538771,"<p>Yes, Kaa 0.8.0 clients are compatible with the 0.8.1 server.</p>	"

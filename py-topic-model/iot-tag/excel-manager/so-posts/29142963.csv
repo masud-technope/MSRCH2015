@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+29142963,29142963,null,1,1,Thu Mar 19 11:07:00 EDT 2015,2592127,"<p>is it possible to control devices connected via I2C/SPI/UART bus directly through /dev/mem so that I could just map the memory into MappedByteBuffer talk to I2C/SPI/UART that way? 	Currently, we are using C library that uses kernel calls like <code>ioctl</code> through JNI. However I want to get rid of the JNI and have it all in pure Java, thus I want to avoid using JNI/JNA.</p>	"

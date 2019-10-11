@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+43736193,43736193,null,1,0,Tue May 02 10:59:00 EDT 2017,7168036,"<p>I create a ThingWorx Project,i use a message box,When a status message appears, it waits 7 seconds and then disappears, if during this time a new message come, status box shows new message and old message together.i want that,it always shows only the new message. </p>	"
+43736193,74519934,43736193,3,0,Tue May 02 12:59:00 EDT 2017,1008563,"Impossible to answer without much more detail - provide the code you've written. [See how to ask a question on SO.](https://stackoverflow.com/help/how-to-ask)"
+43736193,74521264,43736193,3,0,Tue May 02 13:31:00 EDT 2017,7168036,"When a status message appears, it waits 7 seconds and then disappears, if during this time a new message come, status box shows new message and old message together.i want that,it always shows only the new message."

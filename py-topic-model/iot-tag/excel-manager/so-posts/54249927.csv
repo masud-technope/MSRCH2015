@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+54249927,54249927,null,1,0,Fri Jan 18 08:13:00 EST 2019,10932251,"<p>I am new to Kaa and I want to know what are the different data sources (like SAP,HADOOP,Relational Databases) are supported by Kaa and what are the different data types like(image files,voice files,video files,text files) are supported by Kaa.Please help me in learning these concepts.</p>		<p>Thank you</p>	"

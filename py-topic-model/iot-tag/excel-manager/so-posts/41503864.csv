@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+41503864,41503864,null,1,2,Fri Jan 06 10:39:00 EST 2017,4061606,"<p>Can i use the PEP proxy for lightweightm2m-iotagent ?	is there any way to implement security for lightweightm2m-iotagent at southbound side(LWM2M Client to LWM2M Server) ?</p>	"
+41503864,42713795,41503864,2,0,Fri Mar 10 08:37:00 EST 2017,3016684,"<p>At present no security is used, in the future secured coap (coaps:// or COAP over DTLS) will be supported.</p>	"
+41503864,72552480,42713795,3,0,Fri Mar 10 10:32:00 EST 2017,4061606,"Thank you so much user3016684"

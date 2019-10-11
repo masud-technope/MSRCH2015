@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+41039153,41039153,null,1,0,Thu Dec 08 12:07:00 EST 2016,4589494,"<p>The device doesnt support https requests so I need to make http request to a lambda function from a device and pass some data as well. How can I achieve that?</p>	"
+41039153,41057719,41039153,2,2,Fri Dec 09 10:00:00 EST 2016,1166724,"<p>You have to use API Gateway to create an endpoint connected to the Lambda function you built.</p>	"

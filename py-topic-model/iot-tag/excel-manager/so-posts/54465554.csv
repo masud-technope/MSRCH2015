@@ -1,0 +1,7 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+54465554,54465554,null,1,0,Thu Jan 31 16:54:00 EST 2019,10997020,"<p>in my homework with cooja simulator i have 5 nodes ( 1 sink and 4 sender )	i want to do a modification in the file UDP-sink.c for refuse all the "Hello world" messages of the mote 3 and 4 and accept only from the mote 2 (UDP-sender.c) finely saturate the Mote 2 by receiving the "Hello world" messages of the mote 3, by modifying in the UDP_sink.c file .. </p>	"
+54465554,95741030,54465554,3,0,Thu Jan 31 17:57:00 EST 2019,10997020,"I need to know how i can modify in the file (home/contiki/examples/ipv6/rpl-collect/udp-sink.c) where the sink refuse all hello world messages except from one node all that in cooja simulator"
+54465554,95741419,54465554,3,0,Thu Jan 31 18:08:00 EST 2019,10913596,"Are you looking for a text editor? You can open *.c files in notepad if you need to. What specifically are you looking for?"
+54465554,95741607,54465554,3,0,Thu Jan 31 18:14:00 EST 2019,10997020,"i know how to open the file i dont now where i must modify"
+54465554,95741646,54465554,3,0,Thu Jan 31 18:15:00 EST 2019,10997020,"https://github.com/contiki-os/contiki/blob/master/examples/ipv6/rpl-collect/udp-sink.c   {this is the code}"
+54465554,95739632,54465554,3,1,Thu Jan 31 17:13:00 EST 2019,3442256,"What have you tried and what exactly do you need help with?"

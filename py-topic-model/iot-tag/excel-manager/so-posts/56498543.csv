@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+56498543,56498543,null,1,0,Fri Jun 07 17:01:00 EDT 2019,11585781,"<p>I used NodeMCU and DTH11 sensor to collect temperature and humidity data sent on Thingsboard. But I can't put those data in a chart that shows those two data lines. Can someone guide me in detail? thank you.</p>	"

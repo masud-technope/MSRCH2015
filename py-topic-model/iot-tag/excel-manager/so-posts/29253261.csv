@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+29253261,29253261,null,1,2,Wed Mar 25 10:35:00 EDT 2015,4711469,"<p>MaidSafe-Routing is able to maintain p2p route and do NAT traverse without STUN.	There are many libraries only for NAT traversal or DHT(such as Chord and Chimera).	Is there any other C/C++ library like MaidSafe-Routing that is with DHT and NAT traverse?	Thank you.</p>	"

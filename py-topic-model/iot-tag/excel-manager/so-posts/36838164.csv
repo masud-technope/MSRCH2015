@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+36838164,36838164,null,1,0,Mon Apr 25 10:37:00 EDT 2016,1037078,"<p>I am newbie in IOT domain and have choose Parse for my backend needs. I want know is possible to write code in python and still use parse sdk for iot devices that natively supports C programs. </p>		<p>And i am planning to host Parse server on my private server. </p>	"
+36838164,36838349,36838164,2,0,Mon Apr 25 10:45:00 EDT 2016,3087397,"<p>Parse is closing down. Choose another!</p>		<p><a href="http://blog.parse.com/announcements/moving-on/" rel="nofollow">http://blog.parse.com/announcements/moving-on/</a></p>	"
+36838164,61246746,36838349,3,0,Mon Apr 25 10:46:00 EDT 2016,1037078,"I have hosted Parse on my private server"
+36838164,61246790,36838349,3,0,Mon Apr 25 10:47:00 EDT 2016,3087397,"Oh, might be worthwhile putting that within your query before you get hundreds more telling you exactly the same thing!"
+36838164,61246869,36838349,3,0,Mon Apr 25 10:49:00 EDT 2016,1037078,"Thanks for suggestion"

@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+51795973,51795973,null,1,1,Sat Aug 11 02:32:00 EDT 2018,8385660,"<p>I have nodeMCU sending data to database. It is visible in a webpage coded with PHP, hosted online. I need some functionality to give presence of the device. How can I make it possible for nodeMCU to show it's presence? 	I got to know about PubNub and it's services, but it seems to work only for webpages, not for hardware devices pinging back to webpage.</p>		<p>Please consider, I am a noob into this. Any help will be appreciated.</p>	"
+51795973,90549567,51795973,3,0,Sat Aug 11 03:16:00 EDT 2018,2683334,"You can use PHP curl to get the page where its visible."
+51795973,90648153,51795973,3,1,Tue Aug 14 18:05:00 EDT 2018,1342232,"What are you trying to do? What is the use case? What have you already done? How many devices are you working with?"

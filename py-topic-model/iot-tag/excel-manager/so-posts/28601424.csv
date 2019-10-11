@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+28601424,28601424,null,1,0,Thu Feb 19 08:17:00 EST 2015,4582804,"<p>Hi friends I am working with one IOT application with the help of a Contiki - cooja simulator. The thing here am I wanting to emulate the values of sensor nodes, How can I emulate temperature and humidity sensor values using Cooja simulator, Is it possible? Give me some good solution friends.</p>	"
+28601424,45509285,28601424,3,0,Thu Feb 19 08:50:00 EST 2015,2435820,"See [simulating different temperatures on Cooja/Contiki](http://stackoverflow.com/questions/28013883/simulating-different-temperatures-on-cooja-contiki)."
+28601424,46315038,28601424,3,0,Fri Mar 13 16:21:00 EDT 2015,4582804,"Hi KFX i think i got the right information, but i want to use these data sets what I see on web browser for each mote.How can i do that what could be the possible way. For example, have to gather them for my application to built."

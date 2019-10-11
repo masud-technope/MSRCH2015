@@ -1,0 +1,8 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+37695020,37695020,null,1,1,Wed Jun 08 06:41:00 EDT 2016,4979338,"<p>I am developing a bot for Slack.	Can anyone help me with the message read receipts?</p>	"
+37695020,62892769,37695020,3,0,Wed Jun 08 17:45:00 EDT 2016,94559,"I don't think Slack has this feature."
+37695020,63033569,37695020,3,0,Mon Jun 13 06:44:00 EDT 2016,4979338,"I read it on a Blog that Slack supports the feature, but could not find some source for it."
+37695020,45763505,37695020,2,1,Fri Aug 18 19:04:00 EDT 2017,8485399,"<p>Sorry for the self promotion but Slack has yet to add this feature. We saw this need as well for our team, so we decided to go ahead and create a slack app that has this feature. </p>		<p><strong>How it works</strong></p>		<p>Whenever you open a channel and read the messages, an :eye: reaction will be added to the latest message you've read inside that channel. This allows you to see who has read up to what point. </p>		<p>If you're interested in the app, the product is called <a href="http://slackreadit.com" rel="nofollow noreferrer">SlackReadIt</a></p>	"
+37695020,87591057,45763505,3,1,Fri May 11 07:51:00 EDT 2018,943472,"@Cosmic9Studios I think it is no longer working, is it?"
+37695020,81070731,45763505,3,0,Wed Nov 01 18:32:00 EDT 2017,4520887,"does each team-member need to authorize slack-read-it ? @Cosmic9Studios"
+37695020,81233717,45763505,3,0,Mon Nov 06 16:53:00 EST 2017,8485399,"Yes. It's linked to your user account since we add and remove reactions on your behalf."

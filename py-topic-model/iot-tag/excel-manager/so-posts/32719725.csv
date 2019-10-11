@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+32719725,32719725,null,1,1,Tue Sep 22 14:33:00 EDT 2015,2071226,"<p>If not, what is the best way to deal with the fact that the module needs to open a connection first?</p>		<p>Thanks</p>	"
+32719725,32735984,32719725,2,2,Wed Sep 23 09:36:00 EDT 2015,1870387,"<p>Three typical solutions:</p>		<ol>	<li>Module opens connection at startup and keeps it open forever. (long polling)</li>	<li>Module asks server periodically (short polling)</li>	<li>Server wakes-up Modem using a dummy SMS or dummy voice call.</li>	</ol>		<p>For option 3, make sure that the SMS is only used for waking-up. Do not send information in the SMS, as SMS is nowadays insecure.  </p>	"

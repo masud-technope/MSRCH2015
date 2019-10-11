@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+58041439,58041439,null,1,0,Sat Sep 21 14:57:00 EDT 2019,11852972,"<p>I am currently working on a solution which will enable <strong>Machine-to-Machine payments</strong> between connected devices. Would love to hear back from developers who are seeking to address the issue of M2M payments. </p>		<ul>	<li><p>Which challenges around M2M payments you are trying to solve?  </p></li>	<li><p>Which technology do you use?</p></li>	</ul>		<p>Appreciate your feedback</p>	"

@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+48177584,48177584,null,1,-1,Tue Jan 09 22:30:00 EST 2018,9195625,"<p>I am trying to use an &amp; in the middle of my HTML URL inside the source tags in the webview in UWP so i can run it on an IOT device. does anyone know how to do this without throwing an error in Visual Studios?</p>	"
+48177584,83335696,48177584,3,0,Tue Jan 09 22:48:00 EST 2018,8928024,"Welcome to SO. Please finish the tour and you will understand [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve) and modify question accordingly to minimal working example. Without posting your code you risk removal of your question. With your stated trail and error code... people are more willing to help you so both can learn. Enjoy SO ;-)"
+48177584,83338303,48177584,3,0,Wed Jan 10 01:35:00 EST 2018,6601582,"How did you do it and what error you encountered?"
+48177584,48179202,48177584,2,0,Wed Jan 10 01:50:00 EST 2018,5357729,"<p>The question isn't super clear but I think you need to make your string URL-friendly.</p>		<pre><code>string newUrl = Uri.EscapeStringData(oldUrl);	</code></pre>	"

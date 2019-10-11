@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+48866081,48866081,null,1,0,Mon Feb 19 12:18:00 EST 2018,8817391,"<p>I've recently started to work with KaaIoT. I'm wondering in which language kaa's server side is coded..and I would also like to know whether we can customize server side.	Thank You</p>	"
+48866081,84735228,48866081,3,0,Mon Feb 19 12:21:00 EST 2018,1000551,"It is Java - see https://github.com/kaaproject/kaa. But your question is off-topic, I think you'd better to delete it before it is closed"
+48866081,48867159,48866081,2,2,Mon Feb 19 13:21:00 EST 2018,8817405,"<p>kaa is developed in java. You can check on github <a href="https://i.stack.imgur.com/vl0Wn.png" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/vl0Wn.png" alt="enter image description here"></a></p>	"

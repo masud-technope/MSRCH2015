@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+50855046,50855046,null,1,0,Thu Jun 14 10:14:00 EDT 2018,9432809,"<p>I am creating an IoT simulation using Cupcarbon IoT simulator. I want to store the simulation data in some database. Anyone, please help me how to do that.</p>	"
+50855046,51564757,50855046,2,0,Fri Jul 27 19:56:00 EDT 2018,9781264,"<p>A simple solution could be to use the command <em>printfile</em>.</p>		<p>With this command you will able to store in the file with the name results some data you will choose. Every sensor node could have its own result file. </p>		<p>Hope this works for you. 	I would love to ready if you found another solution. </p>		<p>BR</p>	"

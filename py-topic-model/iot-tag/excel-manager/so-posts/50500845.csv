@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+50500845,50500845,null,1,0,Thu May 24 04:12:00 EDT 2018,4885804,"<p>Components:-	Raspverry pi 3,	Temperature sensor DS18B20,	LCD display screen.</p>		<p>I am trying to create a simple program that gets the sensor values and shows the output on display screen connected to rpi.	But, I require some more information of the sensor such as 'manufacturer details, model number, type of sensor, etc.'  Is there a way to get these details?	I want the details to be shown as soon as the sensor is connected to rpi.	 Please help!</p>	"
+50500845,88052330,50500845,3,0,Fri May 25 00:32:00 EDT 2018,4902099,"DS18B20 does not provide such info upon connection."
+50500845,88014249,50500845,3,0,Thu May 24 04:15:00 EDT 2018,3788493,"Without knowing what sensor this is, it would be impossible for anyone to answer this on stack overflow, right? I would suggest editing or deleting this question ASAP before you get downvoted to oblivion"
+50500845,88014316,50500845,3,0,Thu May 24 04:19:00 EDT 2018,4885804,"@jeanluc edit my question"

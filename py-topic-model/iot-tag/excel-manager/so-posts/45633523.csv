@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+45633523,45633523,null,1,0,Fri Aug 11 10:56:00 EDT 2017,7000937,"<p>I am working on an IoT project in which I am required to use Google's geolocation API. Well I know it can be called via HTTP request, is there any way I can call it via MQTT as I think it will be more power efficient and have publish/subscribe approach as I want?</p>	"
+45633523,78226868,45633523,3,0,Fri Aug 11 11:22:00 EDT 2017,982161,"so you want to push your location to a  MQTT broker?"
+45633523,78226906,45633523,3,0,Fri Aug 11 11:23:00 EDT 2017,982161,"because in MQTT you just dont call anything... you subscribe to a topic...."
+45633523,78227253,45633523,3,0,Fri Aug 11 11:32:00 EDT 2017,7000937,"Yes I have to push location to a broker. But are you suggesting to use http to get location from geolocation API and this cannot be performed using MTQQ?"
+45633523,78229985,45633523,3,0,Fri Aug 11 12:39:00 EDT 2017,982161,"you need to use the API to get the location and then publish that to the broker"

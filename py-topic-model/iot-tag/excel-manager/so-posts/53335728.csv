@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+53335728,53335728,null,1,0,Fri Nov 16 10:17:00 EST 2018,6247907,"<p>Using Cumulocity I ‘am able to view audit logs of a user both from the UI and the API. Similarly, I want to view logs of a particular device. 	Is there any way I can achieve this ?</p>	"

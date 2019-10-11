@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+51923592,51923592,null,1,0,Mon Aug 20 02:51:00 EDT 2018,1973207,"<p>So I am on a mac and I need USB forwarded into docker image. Thus I spin up <code>docker-machine</code> on <code>virtualbox</code> with usb forwarding. The only thing is that it does not see my docker images from Docker for Mac and I really would like to share them. How to do such thing?</p>	"
+51923592,90809702,51923592,3,0,Mon Aug 20 11:44:00 EDT 2018,10008173,"Best choice: `docker push`.  Working choice: `docker save`."
+51923592,90810679,51923592,3,0,Mon Aug 20 12:12:00 EDT 2018,1973207,"can we somehow map files\folders for docker in the boot2docker VM to see docker files in the mac OS?"
+51923592,90821758,51923592,3,0,Mon Aug 20 17:35:00 EDT 2018,10008173,"No, they’re separate virtual machines and using different virtualization technologies.  Good third choice: re-run `docker build` for each of your local images in the third environment."

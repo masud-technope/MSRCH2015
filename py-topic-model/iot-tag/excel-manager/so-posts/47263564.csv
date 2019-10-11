@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+47263564,47263564,null,1,0,Mon Nov 13 11:45:00 EST 2017,8429038,"<p>Currently I am working with the Eclipse kapua (for IOT). I am unable to find the  procedure for triggering an email from an H2 database.  In the sandbox (eurotech trail version) there are options like email and sms, but in kapua there are no options like that.  What is the procedure for sending emails in kapua?</p>	"
+47263564,50985002,47263564,2,0,Fri Jun 22 09:34:00 EDT 2018,2215862,"<p>The version hosted by Eurotech in the Sandbox environment is likely to be referred to the previous version, which is Everyware Cloud 4.x.</p>		<p>Not all feature have been ported yet to Kapua and it is currently not possible to do so.</p>	"

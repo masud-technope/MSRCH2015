@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55287102,55287102,null,1,0,Thu Mar 21 18:35:00 EDT 2019,9160542,"<p>I am trying to do experimental research into MQTT, CoAP and DDS. I would like to measure the latency for each protocol; including the message throughput rate.</p>		<p>I have an ESP8266 and a Raspberry Pi running MQTT. Just unsure what software is needed to measure performance metrics?</p>		<p>Any help would be greatly appriciated.</p>	"

@@ -1,0 +1,10 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57769652,57769652,null,1,0,Tue Sep 03 10:17:00 EDT 2019,12013968,"<p>I am writing a rule in IoT core which sends messages to SNS and SQS. In SQS the data is being stored in queue successfully. But SNS is not sending an email. I have followed the same AWS documentation but of no use. I am tried in different accounts and also different email addresses. Can anyone solve this issue</p>	"
+57769652,101974640,57769652,3,0,Tue Sep 03 10:28:00 EDT 2019,12013968,"I first created a topic in aws and then added subscription. My email... and then i verified my email. I then wrote an Iot rule which will send data to the same SNS topic that I created previously. I exactly followed the documentation."
+57769652,101974712,57769652,3,0,Tue Sep 03 10:30:00 EDT 2019,12013968,"I even tried sending the data from Iot core to SNS and then i gave the subscription as SQS. But still, it's not working. Can anyone try it once?"
+57769652,101974844,57769652,3,0,Tue Sep 03 10:34:00 EDT 2019,11841571,"Connect your SNS to lambda and check the body of the event. It might be helpful."
+57769652,102003002,57769652,3,0,Wed Sep 04 08:48:00 EDT 2019,12013968,""errorMessage":"Failed to publish SNS topic. The error received was Invalid parameter: Message Structure - No default entry in JSON message body"
+57769652,102003011,57769652,3,0,Wed Sep 04 08:48:00 EDT 2019,12013968,"I am getting this error can anyone help me out"
+57769652,102036705,57769652,3,1,Thu Sep 05 09:28:00 EDT 2019,12013968,"Thank you I solved the issue. My SNS body does not have a default message."
+57769652,101974383,57769652,3,1,Tue Sep 03 10:20:00 EDT 2019,11841571,"Once your email is verified, there will be no issue I think. Just a few steps are needed."
+57769652,102006326,57769652,3,0,Wed Sep 04 10:26:00 EDT 2019,11841571,"post your sns body sent from iot core."

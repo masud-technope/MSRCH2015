@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55384696,55384696,null,1,0,Wed Mar 27 19:01:00 EDT 2019,5895576,"<p>I don't see any response send by parent  node to the child node in reply to probe message ?. This question is specific to Contiki 3.0. </p>	"

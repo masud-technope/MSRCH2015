@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+40465373,40465373,null,1,3,Mon Nov 07 12:37:00 EST 2016,5019659,"<p>I am working on BLE Applications, I have tested with different devices like Nexus, Moto, Samsung, LG. I am getting the GATT Error 133 in Samsung Devices alone(Samsung A5 2016). Trying to connect 10 times it gets connected only 2 or 3 times.Please Help me out. </p>	"
+40465373,68204711,40465373,3,0,Tue Nov 08 06:29:00 EST 2016,5019659,"Thanks for your reply.Am connecting after scanned devices. specifically above error occurs only Samsung devices"
+40465373,68201257,40465373,3,0,Tue Nov 08 03:26:00 EST 2016,813613,"Try to stop scanning during connection"
+40465373,68238045,40465373,3,0,Tue Nov 08 21:46:00 EST 2016,556495,"If you use direct connect (setting the autoConnect parameter to false), that error is returned when the attempt times out after about 30 seconds. Is that what you are getting?"
+40465373,68247671,40465373,3,1,Wed Nov 09 07:54:00 EST 2016,5019659,"Am getting status 133 in callback onConnectionStateChange"

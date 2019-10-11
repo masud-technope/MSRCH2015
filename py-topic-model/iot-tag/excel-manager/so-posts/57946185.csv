@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57946185,57946185,null,1,-1,Sun Sep 15 16:44:00 EDT 2019,9776033,"<p>I Have a question for "IoT" Devices. I want to connect devices from the internet and locally using the same IP address. Because when I use the local IP then I cant connect with devices from internet and When I using the Public IP then I can't connect with devices locally when internet is not working. Is there's any solution?</p>	"

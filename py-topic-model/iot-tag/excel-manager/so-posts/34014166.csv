@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+34014166,34014166,null,1,1,Tue Dec 01 06:43:00 EST 2015,1792570,"<p>The task at hand is to integrate/interface an already existing ultrasonic sensor like <a href="http://www.ebay.com/itm/DC-5V-Ultrasonic-Module-Distance-Measuring-Transducer-Sensor-Perfect-Waterproof-/271900302156" rel="nofollow">this</a> one to a Z-wave transceiver.</p>		<p>Here are the questions related to it:</p>		<ol>	<li>Is it possible?</li>	<li>What all do I need for it? (Hardware + Software)</li>	<li>Are there any examples that i can follow?</li>	</ol>	"
+34014166,76012801,34014166,3,0,Mon Jun 12 22:54:00 EDT 2017,2149384,"Would love this myself as well. There is no already existing distance sensor for Z-Wave."
+34014166,36693228,34014166,2,0,Mon Apr 18 11:53:00 EDT 2016,6219527,"<p>If this sensor is Arduino compatible, you can have a look ar the <a href="http://z-uno.z-wave.me/" rel="nofollow">Z-Uno project</a>.</p>		<p>Their product is an Arduino compatible Z-Wave board, which you can program from Arduino IDE and use as a Z-Wave sensor/actor.</p>	"
+34014166,76012792,36693228,3,0,Mon Jun 12 22:53:00 EDT 2017,2149384,"Z-Uno not available yet in North America."
+34014166,77065304,36693228,3,0,Tue Jul 11 22:32:00 EDT 2017,363297,"@vkapadia It is availabe now. Check https://z-uno.us"

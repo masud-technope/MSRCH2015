@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+30561412,30561412,null,1,0,Sun May 31 18:58:00 EDT 2015,1133827,"<p>I have done this when running Debian using gpsd. But when running Windows IoT preview...what is a way to get the NMEA sentences off an attached GPS (on the USB port). Is that kind of support around yet?</p>	"
+30561412,30651022,30561412,2,0,Thu Jun 04 18:03:00 EDT 2015,4974941,"<p>Currently this support is not yet available but it is being actively developed. Furthermore the Geolocator API is broken. Unfortunately I don't have an ETA for this but its coming.</p>		<p>Mark Radbourne (MSFT)</p>	"

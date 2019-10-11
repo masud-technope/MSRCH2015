@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+54543962,54543962,null,1,0,Tue Feb 05 22:21:00 EST 2019,8391703,"<p>Is it possible to listen for some event or topic which an IoT rule can listen for so that I can run a lambda function when JITP is activated or do I have to switch to using JITR?</p>	"

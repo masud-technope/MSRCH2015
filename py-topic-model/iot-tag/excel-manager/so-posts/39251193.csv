@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+39251193,39251193,null,1,0,Wed Aug 31 13:36:00 EDT 2016,3497854,"<p>I have a simple rule setup which checks the temperature sensor value in the event data to be greater than 30 Celsius and trigger a NodeRed flow as an action. I see that there is delay in triggering the action. The delay I saw was around a minute to half an hour. Is this something to do with the QoS level of the event data messages being sent?</p>	"
+39251193,71044595,39251193,3,0,Mon Jan 30 09:08:00 EST 2017,3656912,"Hi I've forwarded this thread to the lab...let's see..."
+39251193,65848369,39251193,3,0,Wed Aug 31 18:07:00 EDT 2016,4454969,"Are you using the real-time insight rules in the Watson IoT platform?  If so, you should not be seeing a delay.  Can you provide more details so we can help troubleshoot?"
+39251193,65862504,39251193,3,0,Thu Sep 01 05:51:00 EDT 2016,3497854,"I have not created any Real time Insights service in Bluemix. I have configured the rules in the Watson IoT Platform."
+39251193,65862873,39251193,3,0,Thu Sep 01 06:07:00 EDT 2016,3497854,"Real time insights rules, actions, message schema configurations have been merged into the IBM Watson IoT platform"

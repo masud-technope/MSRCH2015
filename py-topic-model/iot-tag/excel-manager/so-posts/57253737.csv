@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57253737,57253737,null,1,0,Mon Jul 29 12:18:00 EDT 2019,6431533,"<p>I'm writing an API and I want to create good authentication routes. Which way is better for authentication routes for different types of devices. 	One way would be:</p>		<pre><code>/authUser	/authSensor	/auth3rdparty	</code></pre>		<p>Other way would be:</p>		<pre><code>/auth?type=user	/auth?type=sensor	/auth?type=3rdparty	</code></pre>		<p>Which way could be better?</p>	"

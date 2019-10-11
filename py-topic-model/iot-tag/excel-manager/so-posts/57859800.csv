@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57859800,57859800,null,1,0,Mon Sep 09 18:59:00 EDT 2019,11678181,"<p>I am trying to use the following software firmadyne, but from some reason only the following firmware mentioned in this link work: <a href="https://blog.attify.com/getting-started-with-firmware-emulation/" rel="nofollow noreferrer">https://blog.attify.com/getting-started-with-firmware-emulation/</a>.	All other firmwares do not work. 	Does anybody have used the above software ? </p>	"

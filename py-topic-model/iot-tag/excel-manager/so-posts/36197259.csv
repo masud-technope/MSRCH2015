@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+36197259,36197259,null,1,0,Thu Mar 24 09:51:00 EDT 2016,5324559,"<ol>	<li>I am getting data from more than 1000 sensor units through restservice to my web server, this sensor data I am writing it to single file. </li>	<li>Through Flume I am storing these sensors data to HDFS. </li>	<li>Through PIG, Hive and MR I am analysing the data and storing back to HDFS 4. After analytics I am writing back to RDBMS through Sqoop.	Kindly guide me Am I following right approach?</li>	</ol>	"
+36197259,60042994,36197259,3,0,Thu Mar 24 16:12:00 EDT 2016,371933,"Sounds right, you're map-reducing in PIG before storing the results, right?"
+36197259,60102389,36197259,3,0,Sat Mar 26 13:39:00 EDT 2016,5324559,"Yes Sir, Thanks our valuable input."
+36197259,36210417,36197259,2,0,Thu Mar 24 21:38:00 EDT 2016,3470739,"<p>I don't see anything wrong with that pipeline, and if it's meeting your needs...you're golden.</p>		<p>You might want to read a bit on Kafka; maybe Google "Kafka vs. Flume". You might find Kafka compelling, depending on your constraints.</p>	"
+36197259,60102391,36210417,3,0,Sat Mar 26 13:40:00 EDT 2016,5324559,"Yes Sir, Thanks our valuable input."

@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+56478638,56478638,null,1,0,Thu Jun 06 13:27:00 EDT 2019,2907580,"<p>As I understand what I get from the response to shadow update is a desired state (that I want to put thing to). Actual state is only accessible from device response, which I have to catch with a rule. Is that so?	So if you need a definite response in 15s or cancel the request, what is the best approach?</p>	"

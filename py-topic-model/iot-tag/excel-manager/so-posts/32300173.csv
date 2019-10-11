@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+32300173,32300173,null,1,1,Sun Aug 30 19:10:00 EDT 2015,2882534,"<p>I have been searching for how can I build an Universal app to read NFC tags and I not found a clear way to start the code.</p>		<p>Some one knows how to read and write an NFC tag by a Windows Phone??</p>	"
+32300173,32303372,32300173,2,1,Mon Aug 31 02:53:00 EDT 2015,964222,"<p>There is a code sample <a href="https://github.com/Microsoft/nfc-ndef-tag-reader" rel="nofollow">nfc-ndef-tag-reader</a> shows how to read the NFC tags on Windows Phone 8.</p>		<p>The function SubscribeForMessage is still available on Universal Windows Platform. So you can still use the code in your Windows Universal App.</p>	"
+32300173,52497654,32303372,3,0,Mon Aug 31 12:32:00 EDT 2015,2882534,"Great! i'm studing this sample and it's really good!"
+32300173,52497673,32303372,3,0,Mon Aug 31 12:33:00 EDT 2015,2882534,"You know how to write on a NFC tag?"

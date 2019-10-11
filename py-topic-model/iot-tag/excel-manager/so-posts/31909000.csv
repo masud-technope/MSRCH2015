@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+31909000,31909000,null,1,-2,Sun Aug 09 21:26:00 EDT 2015,3944901,"<p>I'm thinking to use Django in IoT(Internet of Things) project. Do you thing this is a good idea ? I'm expecting some arguments please.</p>		<p>PS : The project is an industrial project that contain thousands (or more) of devices. And I want to use Django in the server side.</p>	"
+31909000,51731855,31909000,3,0,Sun Aug 09 21:30:00 EDT 2015,1107211,"Have you looked at Ruby on Rails? I've worked in both frameworks and prefer Rails, but both work."
+31909000,51731870,31909000,3,0,Sun Aug 09 21:31:00 EDT 2015,892383,"This is a pretty broad question; can you give more specifics?"
+31909000,31909039,31909000,2,3,Sun Aug 09 21:31:00 EDT 2015,3749047,"<p>use the framework that fits your needs for your project. 1000 devices is not that much. when django fits your needs so why not?</p>		<p><a href="https://www.djangoproject.com/start/overview/" rel="nofollow">https://www.djangoproject.com/start/overview/</a>	scroll down. there you see project realized with django.</p>		<p>instagram, pinterest etc.</p>	"

@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57891739,57891739,null,1,0,Wed Sep 11 14:49:00 EDT 2019,1957873,"<p>I have two completely different AWS accounts, so I have two completely different AWS IoT endpoint for MQTT connection by devices.</p>		<p>I noticed, for pure chance, that one device with Thing Name and Certificate in Account 2 can connect to MQTT broker by using AWS endpoint of Account 1.</p>		<p>AWS calls is "custom endpoint", so I thought it could be used only from the things in the registry of the same account.</p>	"

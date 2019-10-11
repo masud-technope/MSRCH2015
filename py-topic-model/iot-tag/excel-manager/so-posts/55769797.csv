@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+55769797,55769797,null,1,0,Sat Apr 20 02:43:00 EDT 2019,9882630,"<p>I have connected my nodemcu(with mongoose os installed) to watson iot.I want to control the esp8266 using a server side application but the existing client library of Watson on mongoose os(api_watson.js)does not contain any function to receive device commands callback on the esp8266.Can someone please tell me how to tackle this problem?</p>	"

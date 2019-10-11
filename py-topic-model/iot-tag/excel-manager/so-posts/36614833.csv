@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+36614833,36614833,null,1,0,Thu Apr 14 05:56:00 EDT 2016,5471259,"<p>I am working on internet of things, in one of my current project I am reading the data from Azure IoT hub in a Windows 10 UWP app, where I am passing my IoT Hub connection string to azure while reading data( using Cloud to Device concept).</p>		<p>Is it secure/fine way or not reading data from a client app.</p>		<p>Thanks,	Pradeep</p>	"
+36614833,36617660,36614833,2,1,Thu Apr 14 08:31:00 EDT 2016,371933,"<p>Yes. The library uses https, however the contents of the message is not encrypted, so if you're super-sceptical, just encrypt it before sending.</p>	"
+36614833,60878559,36617660,3,0,Fri Apr 15 08:45:00 EDT 2016,5471259,"Thanks Pedro G. Dias"

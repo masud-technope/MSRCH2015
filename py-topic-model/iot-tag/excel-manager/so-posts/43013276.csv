@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+43013276,43013276,null,1,1,Sat Mar 25 06:24:00 EDT 2017,7765380,"<p>I m new to contiki and try to connect client ip 127.0.0.1 and port 502 to tcp server which is listening on 502 port but it always shows hostname not found or connection time out error. i  tried contiki/example/http-socket. I want to send cc1310 launchpad sensor data on ipv4 server. can any one help me?</p>	"

@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+54290721,54290721,null,1,0,Mon Jan 21 13:07:00 EST 2019,10944949,"<p>I have a small setup with two IoT Edge Devices and one Edge Gateway. On an external VM the monitoring system Prometheus is running. Now i want to get the IP addresses of the gateway and the edge devices in order to insert them into the prometheus.yml </p>		<p>Is there a way to get the IP from Azure? Or should i use another way to connect Prometheus with the edge devices?</p>		<p>Thank you</p>	"

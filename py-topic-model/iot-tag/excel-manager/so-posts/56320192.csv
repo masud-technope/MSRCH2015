@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+56320192,56320192,null,1,0,Mon May 27 05:36:00 EDT 2019,10487657,"<p>My printer is connected to a wifi network and it can be accessed in LAN by CUPS admin page using the IP address of printer(raspberry-pi is attached to the printer). How can I gain access for printing when the user is in another external network and want to control printer via Internet. The printer present in another network is getting detected but when given print command nothing is getting print.How can I achieve it?</p>	"

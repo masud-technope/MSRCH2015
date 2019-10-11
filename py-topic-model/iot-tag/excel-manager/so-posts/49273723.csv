@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+49273723,49273723,null,1,0,Wed Mar 14 09:17:00 EDT 2018,9460323,"<p>I have an device which is connected to the WiFi using an android device. But i am not sure how to reconnect this device when the device gets disconnected.</p>		<p>So the use cases i am looking at is:</p>		<ol>	<li>How to store WiFi credentials in my device such that it	auto-connects ?</li>	<li>Also how to store multiple WiFi credentials so i can store WiFi and move my device across to different places?</li>	</ol>	"
+49273723,85550139,49273723,3,1,Wed Mar 14 09:21:00 EDT 2018,1116230,"Which OS are you using? Android or Windows? Both should store WiFi passwords and use them if possible.... so where is the problem?"
+49273723,85550401,49273723,3,0,Wed Mar 14 09:28:00 EDT 2018,9460323,"The device i am talking about is a headless device which runs on linux OS. Can you share moire details how to achieve this? Thanks a ton Nico"

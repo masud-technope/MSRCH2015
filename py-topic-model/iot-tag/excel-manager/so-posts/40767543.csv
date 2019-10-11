@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+40767543,40767543,null,1,0,Wed Nov 23 14:48:00 EST 2016,6893924,"<p>i am working on a IoT project , i plugged thermo sensor to the arduino and read datas. Here is the question:</p>		<ul>	<li>How can i send that datas instantly to the my mssql database ?</li>	</ul>		<p>Thanks!</p>	"
+40767543,68760265,40767543,3,0,Wed Nov 23 15:17:00 EST 2016,2572928,"Possible duplicate of [Connect to SQL Server from Microcontroller (Arduino or Fez with .Net Micro Framework)](http://stackoverflow.com/questions/3731135/connect-to-sql-server-from-microcontroller-arduino-or-fez-with-net-micro-frame)"
+40767543,68759808,40767543,3,0,Wed Nov 23 15:06:00 EST 2016,3813116,"With an insert statement?"

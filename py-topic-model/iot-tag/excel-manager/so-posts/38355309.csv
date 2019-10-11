@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+38355309,38355309,null,1,1,Wed Jul 13 15:00:00 EDT 2016,3740387,"<p>Is there an equivalent of WADL or WSDL for COAP? APIs for Rest services like Restlet have functions like addQueryParameter for Request which can be used to make the request JSON after knowing the query or path parameters through the WADL. But COAP just gives and takes strings. So what delimiter is used to separate different parameters? Shouldn't a description file be giving information about this?  </p>	"

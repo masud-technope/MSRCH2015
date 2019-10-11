@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+46342873,46342873,null,1,1,Thu Sep 21 11:33:00 EDT 2017,3881239,"<p>I tried to embed graph panel of Grafana using PHP's file_get_contents(). But, it doesn't print the graph. How to render Grafana graph in PHP without IFRAME?</p>	"
+46342873,46365331,46342873,2,0,Fri Sep 22 12:54:00 EDT 2017,4401990,"<p>I mean you may generate own dashboard use ready libraries:	e.g. <a href="https://www.npmjs.com/package/grafana-dash-gen" rel="nofollow noreferrer">grafana-dash-gen</a></p>		<p>or use API (REST) and in javascript generate own dashboard.</p>	"

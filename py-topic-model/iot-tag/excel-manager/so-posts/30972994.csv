@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+30972994,30972994,null,1,0,Mon Jun 22 06:01:00 EDT 2015,5034918,"<p>I have set " allow_anonymous " to false in the configuration file and have created a new password file using the mosquitto_passwd utility, but still the client is able to connect through any username and password. </p>		<p>what should i do ?</p>	"
+30972994,49979678,30972994,3,0,Mon Jun 22 07:31:00 EDT 2015,504554,"Update the question with the start of the output when you start mosquitto and the content of your config file"
+30972994,50020878,30972994,3,0,Tue Jun 23 07:05:00 EDT 2015,5034918,"issue resolved we were correcting the wrong file and did not upload the config file after editing"
+30972994,50066042,30972994,3,0,Wed Jun 24 07:31:00 EDT 2015,5034918,"we didn't know that u have to upload the new configuration file every time while running mosquitto"
+30972994,53851241,30972994,2,0,Wed Dec 19 12:26:00 EST 2018,5254103,"<p><code>password_file</code> MUST not be empty. Or password is not required. Maybe can help you</p>	"

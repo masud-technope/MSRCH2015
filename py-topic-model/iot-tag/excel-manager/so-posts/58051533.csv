@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+58051533,58051533,null,1,0,Sun Sep 22 17:05:00 EDT 2019,10734125,"<p>I want to create an IoT Project with several devices. I'm using several NodeMcu V3. I want to see feeds that each device send to Platform. So a feed can be inserted value from several device. 	My solution is create feeds for every single device. But this solution is not good because will create  a lot of feeds.	Is there any way to handle many device on IoT Platform ? or is there any platform that support multiple device ? thanks</p>	"

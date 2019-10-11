@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+36710125,36710125,null,1,0,Tue Apr 19 06:23:00 EDT 2016,2995358,"<p>I am trying to build an app on iPhone that can detect if an Insteon hub is connected to the same router as the phone. Does anyone know what Insteon hub advertises itself as? How I can detect and get details to present it to the users.</p>	"
+36710125,36850613,36710125,2,0,Mon Apr 25 20:37:00 EDT 2016,2726840,"<p>Insteon does not release information about how their app discovers their Insteon hub. You can try sniff your network with wireshark while connecting Insteon app to insteon hub and see how it goes.</p>	"

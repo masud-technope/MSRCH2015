@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+52047810,52047810,null,1,1,Mon Aug 27 22:39:00 EDT 2018,7516853,"<p>Literally, with a physical button. Say I had a Node.js/Express server and I wanted to trigger HTTP requests by pressing a physical button; how would I go about doing that?</p>	"
+52047810,91048668,52047810,3,0,Tue Aug 28 01:43:00 EDT 2018,7532540,"can you post you button html code"
+52047810,91049456,52047810,3,0,Tue Aug 28 02:54:00 EDT 2018,1710444,"is the server running on the same device which has the button connected to it?"
+52047810,91049478,52047810,3,2,Tue Aug 28 02:56:00 EDT 2018,1710444,"I hesitate to link w3schools, but https://www.w3schools.com/nodejs/nodejs_raspberrypi_led_pushbutton.asp might get the job done for you - in combination with the `request` npm library"

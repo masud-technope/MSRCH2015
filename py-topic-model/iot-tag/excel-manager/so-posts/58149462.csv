@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+58149462,58149462,null,1,-1,Sat Sep 28 19:07:00 EDT 2019,12136090,"<p>I need code in python for opencv that one free rectangular slot is detected and whenever any other object comes between the color of the contour changes and some msg is printed. </p>	"
+58149462,102683459,58149462,3,0,Sat Sep 28 19:44:00 EDT 2019,6203472,"Hi, welcome to StackOverflow. What have you tried so far? Is there any piece of code that you can share? SO is not a platform to get your homework completely done by other developers :)"

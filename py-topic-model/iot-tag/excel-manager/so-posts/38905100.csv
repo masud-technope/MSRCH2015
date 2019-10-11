@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+38905100,38905100,null,1,1,Thu Aug 11 19:59:00 EDT 2016,3737762,"<p>I would like to publish message from Amazon IoT to another host. In Amazon IoT there is MQTT client which have publish and subscribe functionalities. But as far as I know of MQTT client it can publish and subscribe with in Amazon only. I also checked aws iot commands. They don't provide commands for publish and subscribe. Can anyone suggest a way to publish messages from Amazon IoT to another host? </p>	"
+38905100,68704474,38905100,3,0,Tue Nov 22 10:23:00 EST 2016,1906258,"you found solution yet? same requirement here."

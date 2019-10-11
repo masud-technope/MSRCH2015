@@ -1,0 +1,10 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+47310888,47310888,null,1,0,Wed Nov 15 15:11:00 EST 2017,765552,"<p>I'm an Android app developer and have tried Android Things.</p>		<p>After flashing image to the card, my Raspberry Pi 3 board is not booting up (i.e. it does not show anything). I have already tried the answers in this <a href="https://stackoverflow.com/questions/46036082/android-things-raspberi-pi-not-booting">question</a> and <a href="https://stackoverflow.com/questions/46123900/android-things-0-5-1-boot-failed-on-raspberry-pi-3">another</a> as they mentioned it could be due to SD card class.</p>		<p>SD card I am using is of class 10.</p>		<p>For putting the Android image I am using the <a href="https://www.raspberrypi.org/documentation/installation/installing-images/linux.md" rel="nofollow noreferrer">official Linux image</a>, but it is still not working. Has anyone managed to get it to work?</p>	"
+47310888,81572319,47310888,3,0,Wed Nov 15 15:12:00 EST 2017,1096905,"How did you flash the image to the device?"
+47310888,81580599,47310888,3,0,Wed Nov 15 18:39:00 EST 2017,3290339,"You might want to consider investigating `dmesg` and `logcat` messages by [connecting to serial console](https://stackoverflow.com/q/43554006/3290339) to see what's going on."
+47310888,81574062,47310888,3,0,Wed Nov 15 15:48:00 EST 2017,8212738,"What format is your SD Card in?"
+47310888,81574176,47310888,3,0,Wed Nov 15 15:50:00 EST 2017,413127,"what version of AT are you flashing?"
+47310888,81574400,47310888,3,0,Wed Nov 15 15:55:00 EST 2017,765552,"@webo80 using dd command"
+47310888,81574428,47310888,3,0,Wed Nov 15 15:55:00 EST 2017,765552,"@Private_GER fat32"
+47310888,81574451,47310888,3,0,Wed Nov 15 15:56:00 EST 2017,765552,"@Blundell using latest 0.5.1"
+47310888,81574463,47310888,3,0,Wed Nov 15 15:56:00 EST 2017,8212738,"Can you check the MD5? Maybe your download is corrupt."

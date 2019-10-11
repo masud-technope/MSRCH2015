@@ -1,0 +1,7 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+32434887,32434887,null,1,0,Mon Sep 07 09:06:00 EDT 2015,1425849,"<p>Is there a api/library for CoAP that I can use on android side? I've been looking for one for sometime now but with no luck at all.</p>	"
+32434887,52737431,32434887,3,0,Mon Sep 07 10:31:00 EDT 2015,1425849,"Thanks for this @VVB"
+32434887,52734856,32434887,3,1,Mon Sep 07 09:17:00 EDT 2015,4390557,"https://github.com/eclipse/californium/tree/master/cf-android/app/src/main/java/org/eclipse/californium/examples"
+32434887,52742295,32434887,3,1,Mon Sep 07 12:45:00 EDT 2015,4390557,"If it helps your then can I post it as an answer so you can up vote it?"
+32434887,32441011,32434887,2,1,Mon Sep 07 14:28:00 EDT 2015,1537998,"<p><a href="http://coap.technology/impls.html" rel="nofollow">Here</a> you can find all coap implementations.	When i tried <a href="https://github.com/eclipse/californium" rel="nofollow">Californium</a> a few months ago (version 18) it wasn't working on Android (but I suppose that now it works) and I used <a href="https://github.com/okleine/nCoAP" rel="nofollow">ncoap</a> instead.</p>	"
+32434887,52753734,32441011,3,1,Mon Sep 07 19:43:00 EDT 2015,1537998,"Why downvote? Could you at least explain?"

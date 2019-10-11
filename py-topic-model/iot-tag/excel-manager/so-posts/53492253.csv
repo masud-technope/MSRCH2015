@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+53492253,53492253,null,1,0,Tue Nov 27 03:21:00 EST 2018,10709400,"<p>I feel that, IP based rate limit (API request thersold per second /minute) is not the reliable solution for Mobile IOT projects as many users use the same IP address to connect to API server. Please advise the best approach and Pros &amp; Cons</p>	"
+53492253,93854497,53492253,3,0,Tue Nov 27 03:27:00 EST 2018,6183182,"Would user level rate limiting help?"
+53492253,93854632,53492253,3,0,Tue Nov 27 03:39:00 EST 2018,10709400,"Yes, I thought of doing that device Id level or API token based rate limit. But, just looking the expert opinion."

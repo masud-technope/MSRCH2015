@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+39937580,39937580,null,1,1,Sat Oct 08 21:29:00 EDT 2016,6942640,"<p>here's the story line...</p>		<p>when open the publish.php it is perfectly working from byethost but	i get internal server error 500 from Hostinger.in</p>		<p>Any suggestions ?</p>		<p>Thanks!</p>	"
+39937580,67171293,39937580,3,0,Sun Oct 09 15:59:00 EDT 2016,6942640,"php7 them both, .ini file from hostinger is not accessible."
+39937580,67157007,39937580,3,0,Sat Oct 08 21:33:00 EDT 2016,1524622,"compare php versions and check php.ini files."

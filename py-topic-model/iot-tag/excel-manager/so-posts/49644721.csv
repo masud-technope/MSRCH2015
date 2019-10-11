@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+49644721,49644721,null,1,1,Wed Apr 04 07:00:00 EDT 2018,4497177,"<p>I am using the kaa server for Data collections,How to save the data from endpoints and how to fetch the data from mongoDB for objective-c.	My idea is using kaa server to save the values in mongoDB and retrieve. </p>	"
+49644721,86297215,49644721,3,0,Wed Apr 04 07:01:00 EDT 2018,4497177,"using the kaa server it is possiable ?"

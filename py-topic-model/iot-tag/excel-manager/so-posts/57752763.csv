@@ -1,0 +1,5 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57752763,57752763,null,1,0,Mon Sep 02 07:13:00 EDT 2019,12008187,"<p>I am currently using "tvservice -s" command to get the status of the screen  but unfortunately it isn't working on all the screens. Anyone having any alternative solution to get the current screen status  using any kind of hardware or raspberryPi pins ?</p>	"
+57752763,101972041,57752763,3,0,Tue Sep 03 09:06:00 EDT 2019,12008187,"I am using Raspbian OS."
+57752763,101967014,57752763,3,0,Tue Sep 03 06:04:00 EDT 2019,8546089,"Which OS was running on your Raspberry Pi 3?"
+57752763,101997194,57752763,3,0,Wed Sep 04 04:36:00 EDT 2019,12008187,"I have researched a little more regarding this and find out that getting the HPD(hot plugin detect) can help me through this, kindly share with me how i can able to get the HPD value dynamically."

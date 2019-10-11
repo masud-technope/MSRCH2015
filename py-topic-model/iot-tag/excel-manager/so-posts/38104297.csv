@@ -1,0 +1,7 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+38104297,38104297,null,1,0,Wed Jun 29 15:41:00 EDT 2016,4293609,"<p>Is it possible that one LwM2M server will be connected to an other LwM2M server?	For example if one LwM2M can be on the gateway level and another LwM2M server is on the cloud, how could I connect the two servers?</p>		<p>Thanks in advance for your help!</p>	"
+38104297,72149134,38104297,3,0,Tue Feb 28 10:07:00 EST 2017,345835,"IIRC, Leshan can't work this way out of the box. LwM2M gateway/proxy are not a part of current Leshan implementation."
+38104297,72246995,38104297,3,0,Thu Mar 02 13:09:00 EST 2017,4293609,"I see, is there any implementation of the LwM2M gateway? can't find one :("
+38104297,71613019,38104297,3,0,Tue Feb 14 12:57:00 EST 2017,4293609,"Well it is more linked to local, remote deployment. Let's say in my local server (in the gateway) I will be able to manage my devices locally without the need to connect to the remote server (in the cloud). In the remote server I will be able to manage all gateway (can be more than one) and devices."
+38104297,76785662,38104297,3,0,Tue Jul 04 11:13:00 EDT 2017,345835,"At least I did not find any"
+38104297,66266012,38104297,3,0,Tue Sep 13 15:09:00 EDT 2016,345835,"Could you please describe what you are trying to get from such setup? If your goal is load balancing - there are different solutions for this."

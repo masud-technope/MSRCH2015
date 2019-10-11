@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+39933533,39933533,null,1,1,Sat Oct 08 14:25:00 EDT 2016,6941726,"<p>Can anyone help. I want to capture packets using jnetpcap library. But I'm getting Java build path errors. </p>		<p>I think i have not installed the library properly. I tried with the jnetpcap library for Debian version. What do I have to download and put which version and how to copy it to global environment. <code>.so</code> file and <code>.jar</code> files if needed. </p>		<p>I installed libcap-dev too. </p>	"
+39933533,67193737,39933533,3,0,Mon Oct 10 11:25:00 EDT 2016,636234,"what is the command that you run and the error that you received ?"

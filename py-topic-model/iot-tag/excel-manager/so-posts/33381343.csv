@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+33381343,33381343,null,1,0,Wed Oct 28 01:23:00 EDT 2015,723056,"<p>I'm building an application that communicates with an embedded device (256mb RAM, 1Ghz CPU and Linux) over WiFi. I would like to know good frameworks that I could use to establish bidirectional communication. I have evaluated the following frameworks.</p>		<ul>	<li>Socket.io	Easy interface to communicate. The embedded device is running a Node.js server. Stable libraries for iOS and Android. Is using websockets to communicate in a local network an overkill ?. </li>	<li>MQTT</li>	<li>ZeroMQ Super fast, however mobile frameworks available seems to be outdated</li>	</ul>	"
+33381343,54556505,33381343,3,0,Wed Oct 28 01:27:00 EDT 2015,4917954,"What about setting up an XMPP server?"
+33381343,54556899,33381343,3,0,Wed Oct 28 01:52:00 EDT 2015,723056,"@Chris Not a bad idea, I will add that as an candidate"

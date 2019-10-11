@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+42863324,42863324,null,1,0,Fri Mar 17 17:04:00 EDT 2017,4221139,"<p>I'm sending files via MQTT to AWS IoT and need to break the file into several MQTT messages because of payload limits. I have that part working, but struggling to figure out the best way to reconstruct the packets on the Amazon side. The file needs to be reconstructed then saved to S3 bucket. What is the best approach to accomplish this?</p>	"
+42863324,72842718,42863324,3,0,Fri Mar 17 22:55:00 EDT 2017,4221139,"I haven't tried anything. I'm a beginner using AWS, so I haven't tried anything."
+42863324,72842746,42863324,3,0,Fri Mar 17 22:57:00 EDT 2017,504554,"That's not really how Stack Overflow works. Have a go and people will help you fix/improve it."

@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+43539212,43539212,null,1,1,Fri Apr 21 09:38:00 EDT 2017,6029396,"<p>I want to use JBPM with my IOT application. I already integrated drools rule with Storm in my Application,but now I want to know how business User can use JBPM and they can make his own business process.</p>	"

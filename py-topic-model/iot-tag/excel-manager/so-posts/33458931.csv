@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+33458931,33458931,null,1,2,Sun Nov 01 03:29:00 EST 2015,5236624,"<p>When writing a Windows 10 IoT app using Python, is it possible to switch the implementation of the interpreter from CPython to IronPython (if it is not already IronPython - I do not have a Raspberry Pi to test this on)?</p>		<p>My goal is to use IronPython to execute C# code, so that I can use both Python and C# in my app.</p>		<p>If there is another way to do this, then please let me know.</p>	"

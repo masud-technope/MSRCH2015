@@ -1,0 +1,7 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+38383924,38383924,null,1,0,Thu Jul 14 20:43:00 EDT 2016,1858187,"<p>I am confused by the programming model of mqtt.	My goal is to deploy a client that periodically retrieves sensor data	 and publish them on a topic via mqtt paho client.</p>		<p>In the code-examples from paho after every publication they disconnects, but i have also see examples where the client published data without a disconnect message sending after each sensor data publication. 	What is the best approach ?</p>	"
+38383924,64186006,38383924,3,0,Fri Jul 15 05:23:00 EDT 2016,1858187,"but this is a exact question"
+38383924,64180926,38383924,3,1,Thu Jul 14 22:59:00 EDT 2016,504554,"As it stands this question is too broad to get a proper answer. Please read the guidelines on asking good questions - http://stackoverflow.com/help/dont-ask"
+38383924,64194245,38383924,3,0,Fri Jul 15 09:40:00 EDT 2016,429431,""what is the best approach?" is very broad. It depends entirely on your situation."
+38383924,64194494,38383924,3,0,Fri Jul 15 09:46:00 EDT 2016,1858187,"What is the difference i mean if i publish every 2 seconds sensordata, should i send a DISCONNECT-Packet and then resend again via PUBLISH-Packet?"
+38383924,50097161,38383924,2,0,Mon Apr 30 08:57:00 EDT 2018,9639621,"<p>If you want to send sensor data frequently, try maintaining the connection. Otherwise you need to send keepalive message regularly.</p>	"

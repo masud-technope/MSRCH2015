@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+57832925,57832925,null,1,0,Sat Sep 07 10:44:00 EDT 2019,12005829,"<p>I have senario where I need to calculate the speed of car.	I am going to mount raspberry pi inside car and will be using some kind of sensor to calculate the speed of car in km per hour.</p>		<p>I need that sensor recommendation.</p>		<p>Which sensor should I using to get the speed of car in km per hour??</p>	"
+57832925,102117909,57832925,3,0,Sun Sep 08 19:59:00 EDT 2019,189095,"Have a look at this tutorial: https://tutorials-raspberrypi.com/build-raspberry-pi-gps-location-navigation-device/"
+57832925,57845272,57832925,2,1,Sun Sep 08 19:51:00 EDT 2019,12010818,"<p>You can use GPS module. Divide distance traveled in given time slice by the time slice and convert to km/h.</p>	"
+57832925,102179111,57845272,3,0,Tue Sep 10 19:33:00 EDT 2019,12010818,"It more or less works. Some navigation SDKs for smartphones (e.g. HERE SDK) give information about the speed that is calculated from position change in time. Navigation apps use it to show current speed to the user. Sometimes GPS-based speed calculations can show more accurate results than speedometers of cars that tend to overstate speed."
+57832925,102153606,57845272,3,0,Tue Sep 10 04:27:00 EDT 2019,12005829,"I think that does not work for small time and distance."

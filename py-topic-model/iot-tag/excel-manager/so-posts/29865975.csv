@@ -1,0 +1,3 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+29865975,29865975,null,1,0,Sat Apr 25 13:43:00 EDT 2015,4672750,"<p>I would like to disable the neighbour advertisement and neighbour solicitation in contiki. What is the configuration that needs to be disabled in the config file of my application. </p>	"
+29865975,29897811,29865975,2,0,Mon Apr 27 13:56:00 EDT 2015,2165027,"<p>Set the variable <code>UIP_CONF_ND6_SEND_NA</code> to 0. </p>	"

@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+53556688,53556688,null,1,1,Fri Nov 30 11:29:00 EST 2018,4768946,"<p>AWS IoT states that communication between a device and AWS IoT is protected through the use of X.509 certificates.</p>		<p>Why is it that I can simply create a "thing" (via the Amazon CLI or SDK for example) and update its shadow etc. without attaching a certificate for security? </p>		<p>How to configure AWS IoT to only allow things / devices to be available with certificates?</p>	"

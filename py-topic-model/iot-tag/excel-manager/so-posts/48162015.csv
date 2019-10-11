@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+48162015,48162015,null,1,0,Tue Jan 09 05:39:00 EST 2018,4644942,"<p>I want to connect only one client at a time with esp8266. Second client trying to connect should disconnect immediately.But I can't find 'max_connection' like parameter in</p>		<p><code>ap.configuration()</code></p>		<p>Allowed parameters are essid, password, channel, authmode	Is there a way to achieve this ?</p>	"
+48162015,83406966,48162015,3,0,Thu Jan 11 17:30:00 EST 2018,4644942,"i know that how to set that in micropython do u know the way"
+48162015,83380535,48162015,3,0,Thu Jan 11 04:24:00 EST 2018,2317490,"keep in mind 4 is the max..."
+48162015,48172948,48162015,2,0,Tue Jan 09 16:48:00 EST 2018,9194310,"<p>You can use <code>wifi_softap_set_config()</code> with <code>config.max_connections</code>. </p>		<p><a href="https://github.com/esp8266/Arduino/issues/570" rel="nofollow noreferrer">From reference</a></p>	"
+48162015,83343580,48172948,3,0,Wed Jan 10 07:08:00 EST 2018,4644942,"I am using python is there a pythonic way of doing that"

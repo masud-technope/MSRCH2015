@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+41239177,41239177,null,1,1,Tue Dec 20 09:43:00 EST 2016,4061606,"<p>I want an Iot Agents that support Interaction models: Active Attributes.	My choice is OMA LWM2M, I am wondering whether there is another choice is same or better?</p>	"
+41239177,42714083,41239177,2,0,Fri Mar 10 08:53:00 EST 2017,3016684,"<p>OMA LWM2M is also supported by the OneM2M standard so it is a good option.	However, a simpler one might be the UL2.0 over HTTP or MQTT.</p>	"
+41239177,72552519,42714083,3,0,Fri Mar 10 10:33:00 EST 2017,4061606,"Thank you for your helpful answer."

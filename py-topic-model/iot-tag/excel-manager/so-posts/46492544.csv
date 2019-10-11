@@ -1,0 +1,4 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+46492544,46492544,null,1,0,Fri Sep 29 15:47:00 EDT 2017,829543,"<p>I'm using Thingsboard on cloud and thingsboard gateway on my raspberry pi.</p>		<p>How can i send and receive push of a button from the dashboard to a device connected, and read it's status?</p>		<p><code>	| tb | tb-gw | device |	| ---------------&gt; ?? |	| ?? &lt;--------------- |	</code></p>		<p>Thanks</p>	"
+46492544,80298360,46492544,3,0,Tue Oct 10 20:01:00 EDT 2017,3203737,"Have you checked this guide https://thingsboard.io/docs/iot-gateway/mqtt/#server-side-rpc-commands ?"
+46492544,80458946,46492544,3,0,Sun Oct 15 15:44:00 EDT 2017,829543,"I have used system control switch in my dashboard but the switch doesn't move at all. I create a script to replace request to response of course. Seems like a device (son of a gateway) doesn't consider the rpc."

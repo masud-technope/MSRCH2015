@@ -1,0 +1,2 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+53413228,53413228,null,1,0,Wed Nov 21 13:34:00 EST 2018,8619880,"<p>temporal leak: your model will effectively be trained on data from the future. In	such situations, you should always make sure all data in your test set is posterior (causal systems) 	to the data in the training set.</p>		<p>How to measure Temporal Leak?	 in Raw Data file (i.e Readings of a Weather station Data of Past Decade).</p>	"

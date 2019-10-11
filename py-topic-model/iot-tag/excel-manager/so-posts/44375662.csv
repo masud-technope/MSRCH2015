@@ -1,0 +1,6 @@
+thread_ID, Id, ParentId, PostType, Score, CreationDate, OwnerID, Body
+44375662,44375662,null,1,-1,Mon Jun 05 18:45:00 EDT 2017,8115847,"<p>I was trying the kaa tutorial "Your first kaa application" and in the step "Change sampling period",	<a href="https://i.stack.imgur.com/DKkJc.png" rel="nofollow noreferrer">the highlighted output is supposed to happen</a></p>		<p>But it does not, despite the other values still appear.</p>	"
+44375662,75841609,44375662,3,0,Wed Jun 07 19:47:00 EDT 2017,8115847,"Yes, about the SDK, I used **C**. In summary I used the sandbox and I've made the same things that the tutorial "Your first kaa application" asked to do."
+44375662,75879386,44375662,3,0,Thu Jun 08 16:17:00 EDT 2017,682730,"Could you try the Data Collection demo application based on C SDK? It was the base for 'Your first Kaa application' code and matching the same logic. Thus, should it work well, you will be able to check what is the difference between them and try localizing the issue."
+44375662,75833781,44375662,3,0,Wed Jun 07 15:55:00 EDT 2017,682730,"Could you provide a bit more information like what SDK you use etc.?"
+44375662,44968538,44375662,2,0,Fri Jul 07 10:29:00 EDT 2017,8269765,"<p>Press Active not just save	or is there ant more </p>	"
